@@ -1,0 +1,970 @@
+2026-05-14 09:48:30 [INFO] session_service - get_session:57 - [user=2] 查询会话历史
+2026-05-14 09:48:30 [INFO] session_service - get_session:67 - [user=2] 会话历史: 3 条
+2026-05-14 09:50:14 [INFO] session_service - get_session_detail:78 - [session=5] 查询会话详情
+2026-05-14 09:50:14 [INFO] session_service - get_session_detail:93 - [session=5] 会话详情: 2 条消息
+2026-05-14 09:50:18 [INFO] session_service - get_session_detail:78 - [session=3] 查询会话详情
+2026-05-14 09:50:18 [INFO] session_service - get_session_detail:93 - [session=3] 会话详情: 10 条消息
+2026-05-14 09:50:19 [INFO] session_service - get_session_detail:78 - [session=4] 查询会话详情
+2026-05-14 09:50:19 [INFO] session_service - get_session_detail:93 - [session=4] 会话详情: 12 条消息
+2026-05-14 09:52:38 [INFO] session_service - get_session:57 - [user=2] 查询会话历史
+2026-05-14 09:52:38 [INFO] session_service - get_session:67 - [user=2] 会话历史: 3 条
+2026-05-14 09:52:40 [INFO] session_service - get_session_detail:78 - [session=4] 查询会话详情
+2026-05-14 09:52:40 [INFO] session_service - get_session_detail:93 - [session=4] 会话详情: 12 条消息
+2026-05-14 09:54:31 [INFO] session_service - get_session:57 - [user=2] 查询会话历史
+2026-05-14 09:54:31 [INFO] session_service - get_session:67 - [user=2] 会话历史: 3 条
+2026-05-14 09:54:33 [INFO] session_service - get_session_detail:78 - [session=5] 查询会话详情
+2026-05-14 09:54:33 [INFO] session_service - get_session_detail:93 - [session=5] 会话详情: 2 条消息
+2026-05-14 09:54:34 [INFO] session_service - get_session_detail:78 - [session=3] 查询会话详情
+2026-05-14 09:54:34 [INFO] session_service - get_session_detail:93 - [session=3] 会话详情: 10 条消息
+2026-05-14 09:54:35 [INFO] session_service - get_session_detail:78 - [session=4] 查询会话详情
+2026-05-14 09:54:35 [INFO] session_service - get_session_detail:93 - [session=4] 会话详情: 12 条消息
+2026-05-14 10:27:25 [INFO] session_service - get_session:57 - [user=2] 查询会话历史
+2026-05-14 10:27:25 [INFO] session_service - get_session:67 - [user=2] 会话历史: 3 条
+2026-05-14 10:33:03 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:33:03 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 10:36:20 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 10:36:20 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 12 条消息
+2026-05-14 10:36:28 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 10:36:28 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 10:44:32 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:44:32 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 10:44:35 [INFO] session_service - delete_session:120 - [session=4] 删除会话
+2026-05-14 10:44:35 [INFO] session_service - delete_session:146 - [session=4] 会话已删除，关联文件数: 2, RAG文件数: 0
+2026-05-14 10:46:39 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:46:39 [INFO] session_service - get_session:68 - [user=2] 会话历史: 2 条
+2026-05-14 10:55:29 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 10:55:29 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 10:55:32 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 10:55:32 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 2 条消息
+2026-05-14 10:55:45 [INFO] logs/pipeline/FileParser - parse_file:16 - [82e54318]开始解析文件,文件类型pdf
+2026-05-14 10:55:45 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [82e54318]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 10:55:47 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [82e54318]PDF 解析到 108 页
+2026-05-14 10:55:47 [INFO] logs/pipeline/FileParser - parse_file:37 - [82e54318] 解析完成，108页，耗时1652.69ms
+2026-05-14 10:57:19 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:57:19 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 10:58:35 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 10:58:35 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 12 条消息
+2026-05-14 10:59:17 [INFO] logs/pipeline/FileParser - parse_file:16 - [532abafe]开始解析文件,文件类型pdf
+2026-05-14 10:59:17 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [532abafe]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 10:59:18 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [532abafe]PDF 解析到 83 页
+2026-05-14 10:59:18 [INFO] logs/pipeline/FileParser - parse_file:37 - [532abafe] 解析完成，83页，耗时682.61ms
+2026-05-14 10:59:42 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:59:42 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 10:59:48 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 10:59:48 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 10:59:49 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 10:59:49 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 11:00:36 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:00:36 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 11:00:37 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 11:00:37 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 11:00:39 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 11:00:39 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 3 条消息
+2026-05-14 11:01:36 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:01:36 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 11:01:39 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 11:01:39 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 2 条消息
+2026-05-14 11:01:44 [INFO] logs/pipeline/FileParser - parse_file:16 - [2587d1a0]开始解析文件,文件类型pdf
+2026-05-14 11:01:44 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [2587d1a0]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 11:01:45 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [2587d1a0]PDF 解析到 108 页
+2026-05-14 11:01:45 [INFO] logs/pipeline/FileParser - parse_file:37 - [2587d1a0] 解析完成，108页，耗时986.85ms
+2026-05-14 11:01:59 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 11:01:59 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 3 条消息
+2026-05-14 11:01:59 [INFO] chat_service - chat:41 - [session=5] 收到对话请求: query=这篇文章大概讲了什么...
+2026-05-14 11:01:59 [INFO] chat_service - chat:52 - [session=5] 会话有效, 准备流式响应
+2026-05-14 11:01:59 [INFO] chat_service - _sse_generator:74 - [session=5] 加载历史消息: 3 条
+2026-05-14 11:01:59 [INFO] chat_service - _get_pipeline:24 - 初始化 ChatPipeline...
+2026-05-14 11:01:59 [INFO] chat_service - _sse_generator:94 - [session=5] 管道线程已启动
+2026-05-14 11:01:59 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 11:01:59 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 11:01:59 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 11:01:59 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 11:01:59 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 11:01:59 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 11:01:59 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 11:01:59 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 11:02:00 [WARNING] logs/pipeline/HybridSearch - __init__:21 - ES 初始化失败（检索将跳过BM25）: Failed to connect to Elasticsearch at http://127.0.0.1:9200
+2026-05-14 11:02:00 [WARNING] logs/pipeline/HybridSearch - __init__:28 - Milvus 初始化失败（检索将跳过向量检索）: 'MilvusSettings' object has no attribute 'EMBEDDING_DIM'
+2026-05-14 11:02:00 [WARNING] logs/pipeline/HybridSearch - __init__:32 - ES 和 Milvus 均不可用，检索功能不可用
+2026-05-14 11:02:00 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 11:02:00 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 11:02:00 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 11:02:00 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 11:02:00 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 11:02:00 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 11:02:00 [INFO] chat_service - _get_pipeline:27 - ChatPipeline 初始化完成
+2026-05-14 11:02:00 [INFO] chat_service - run_pipeline:80 - [session=5] 开始执行对话管道
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - chat:153 - [8e92c57f] 收到对话: query=这篇文章大概讲了什么...
+2026-05-14 11:02:00 [DEBUG] logs/pipeline/ChatPipeline - chat:162 - [8e92c57f] 历史消息: 3 条
+2026-05-14 11:02:00 [DEBUG] logs/pipeline/IntentRouterPipeline - route:136 - [8e92c57f] 正在进行意图分类: 这篇文章大概讲了什么
+2026-05-14 11:02:00 [ERROR] logs/pipeline/IntentRouterPipeline - route:157 - [8e92c57f] 意图分类出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}，默认返回 search_broad
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - chat:172 - [8e92c57f] 意图: search_broad (置信度=0.500, top_k=8, max_rewrite=5)
+2026-05-14 11:02:00 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:123 - [8e92c57f] 正在改写查询: 这篇文章大概讲了什么, 历史: 3 条
+2026-05-14 11:02:00 [ERROR] logs/pipeline/QueryRewriterPipeline - rewrite:141 - [8e92c57f] 改写查询时出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - _retrieve:105 - [8e92c57f] 查询重写完成: 1 个, top_k=8, max_rewrite=5
+2026-05-14 11:02:00 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [8e92c57f]开始rerank，原始查询:这篇文章大概讲了什么...
+2026-05-14 11:02:00 [INFO] logs/pipeline/HybridSearch - retrieve:50 - [8e92c57f]开始检索：1个查询，top_k=8
+2026-05-14 11:02:00 [INFO] logs/models/SiliconFlowEmbedding - embed:22 - [f4b8215e] 开始embed | text长度=1
+2026-05-14 11:02:00 [INFO] logs/models/SiliconFlowEmbedding - embed:49 - [f4b8215e] Embed成功 | 向量维度=1024
+2026-05-14 11:02:00 [DEBUG] logs/pipeline/HybridSearch - retrieve:58 - [8e92c57f] 生成1024个向量
+2026-05-14 11:02:00 [INFO] logs/pipeline/HybridSearch - retrieve:63 - [8e92c57f] 检索完成，BM25:0，向量:0
+2026-05-14 11:02:00 [WARNING] logs/pipeline/HybridSearch - retrieve:75 - [8e92c57f] 无可用检索器
+2026-05-14 11:02:00 [WARNING] logs/pipeline/RerankPipeline - search_rerank:22 - [8e92c57f]搜索无结果，提前结束
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - _retrieve:116 - [8e92c57f] 检索结果: 0 条
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - _retrieve:119 - [8e92c57f] 检索无结果，回退为多轮对话
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - chat:191 - [8e92c57f] 检索无结果，已使用多轮对话模式
+2026-05-14 11:02:00 [INFO] logs/pipeline/ChatPipeline - chat:195 - [8e92c57f] 开始流式生成
+2026-05-14 11:02:03 [INFO] chat_service - run_pipeline:85 - [session=5] 管道完成, AI回复长度=407
+2026-05-14 11:02:03 [INFO] chat_service - _sse_generator:108 - [session=5] 消息已持久化: user=这篇文章大概讲了什么..., ai_len=407
+2026-05-14 11:02:03 [INFO] chat_service - _sse_generator:116 - [session=5] SSE流结束
+2026-05-14 11:02:03 [DEBUG] chat_service - _sse_generator:125 - [session=5] 线程池已关闭
+2026-05-14 11:11:53 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 11:11:53 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 12 条消息
+2026-05-14 11:11:54 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 11:11:54 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 11:12:03 [INFO] logs/pipeline/DocumentStore - __init__:17 - 初始化文档存储
+2026-05-14 11:12:03 [INFO] logs/pipeline/DocumentStore - __init__:20 - 文件解析初始化成功
+2026-05-14 11:12:03 [INFO] logs/pipeline/DocumentStore - __init__:27 - 文本切分初始化成功
+2026-05-14 11:12:03 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 11:12:03 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 11:12:03 [INFO] logs/pipeline/DocumentStore - __init__:30 - embedding初始化成功
+2026-05-14 11:12:03 [ERROR] logs/pipeline/DocumentStore - close:120 - 资源清理失败: 'DocumentStorePipeline' object has no attribute 'vector_db'
+2026-05-14 11:17:34 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:17:34 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 11:17:55 [INFO] logs/pipeline/DocumentStore - __init__:17 - 初始化文档存储
+2026-05-14 11:17:55 [INFO] logs/pipeline/DocumentStore - __init__:20 - 文件解析初始化成功
+2026-05-14 11:17:55 [INFO] logs/pipeline/DocumentStore - __init__:27 - 文本切分初始化成功
+2026-05-14 11:17:55 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 11:17:55 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 11:17:55 [INFO] logs/pipeline/DocumentStore - __init__:30 - embedding初始化成功
+2026-05-14 11:17:57 [INFO] logs/pipeline/DocumentStore - __init__:33 - 向量数据库初始化成功
+2026-05-14 11:33:14 [ERROR] logs/pipeline/DocumentStore - close:120 - 资源清理失败: 'DocumentStorePipeline' object has no attribute 'text_db'
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:17 - 初始化文档存储
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:20 - 文件解析初始化成功
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:27 - 文本切分初始化成功
+2026-05-14 11:33:14 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 11:33:14 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:30 - embedding初始化成功
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:33 - 向量数据库初始化成功
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:36 - ES数据库初始化成功
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - __init__:39 - 初始化完成
+2026-05-14 11:33:14 [INFO] logs/pipeline/DocumentStore - store:45 - [529a503b]开始存入程序
+2026-05-14 11:33:14 [INFO] logs/pipeline/FileParser - parse_file:16 - [3a2bf7d9]开始解析文件,文件类型pdf
+2026-05-14 11:33:14 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [3a2bf7d9]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 11:33:15 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [3a2bf7d9]PDF 解析到 83 页
+2026-05-14 11:33:15 [INFO] logs/pipeline/FileParser - parse_file:37 - [3a2bf7d9] 解析完成，83页，耗时958.19ms
+2026-05-14 11:33:15 [INFO] logs/pipeline/DocumentStore - store:56 - [529a503b]文档分块完成，共149个块
+2026-05-14 11:33:15 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:65 - [2acde424] 开始batch embed | 文本数=149
+2026-05-14 11:33:16 [ERROR] logs/models/SiliconFlowEmbedding - embed_batch:84 - [2acde424] Batch API错误 | 状态码=413 | 文本数=149 | 响应={"code":20042,"message":"input batch size 149 \u003e maximum allowed batch size 64","data":null}
+2026-05-14 11:33:16 [INFO] logs/pipeline/DocumentStore - store:61 - [529a503b]嵌入完成,共149个嵌入向量
+2026-05-14 11:33:16 [ERROR] logs/pipeline/DocumentStore - store:85 - [529a503b] 文档存入失败: <MilvusException: (code=1100, message=float vector field 'embedding' is illegal, array type mismatch: invalid parameter[expected=need float vector][actual=got nil])>
+Traceback (most recent call last):
+  File "C:\GraduationProject\code\rag-qa-system\rag\document_processing\store.py", line 66, in store
+    total_vector=self.vector_db.insert(text_ids, embeddings)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\database\vector_db.py", line 67, in insert
+    res = self.client.insert(
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\milvus_client\milvus_client.py", line 255, in insert
+    res = conn.insert_rows(
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 407, in handler
+    raise e from e
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 404, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 451, in handler
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 342, in handler
+    raise e from e
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 305, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\decorators.py", line 118, in handler
+    return func(self, collection_name, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\client\grpc_handler.py", line 781, in insert_rows
+    check_status(resp.status)
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\pymilvus\client\utils.py", line 76, in check_status
+    raise MilvusException(status.code, status.reason, status.error_code)
+pymilvus.exceptions.MilvusException: <MilvusException: (code=1100, message=float vector field 'embedding' is illegal, array type mismatch: invalid parameter[expected=need float vector][actual=got nil])>
+2026-05-14 11:52:16 [INFO] logs/pipeline/DocumentStore - close:118 - 资源清理完成
+2026-05-14 11:52:29 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:52:29 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:17 - 初始化文档存储
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:20 - 文件解析初始化成功
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:27 - 文本切分初始化成功
+2026-05-14 11:52:37 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 11:52:37 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:30 - embedding初始化成功
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:33 - 向量数据库初始化成功
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:36 - ES数据库初始化成功
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - __init__:39 - 初始化完成
+2026-05-14 11:52:37 [INFO] logs/pipeline/DocumentStore - delete_by_file:99 - [f35e1f25]开始删除
+2026-05-14 11:52:37 [ERROR] logs/pipeline/DocumentStore - delete_by_file:115 - [f35e1f25] 删除数据失败: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+Traceback (most recent call last):
+  File "C:\GraduationProject\code\rag-qa-system\rag\document_processing\store.py", line 108, in delete_by_file
+    res_text = self.text_db.delete_by_hashsource(source_hash)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\database\text_db.py", line 129, in delete_by_hashsource
+    res = self.client.delete_by_query(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\utils.py", line 421, in wrapped
+    return api(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\__init__.py", line 1637, in delete_by_query
+    return self.perform_request(  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 271, in perform_request
+    response = self._perform_request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 351, in _perform_request
+    raise HTTP_EXCEPTIONS.get(meta.status, ApiError)(
+elasticsearch.NotFoundError: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+2026-05-14 11:52:51 [INFO] logs/pipeline/DocumentStore - delete_by_file:99 - [d71f7f5c]开始删除
+2026-05-14 11:52:52 [ERROR] logs/pipeline/DocumentStore - delete_by_file:115 - [d71f7f5c] 删除数据失败: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+Traceback (most recent call last):
+  File "C:\GraduationProject\code\rag-qa-system\rag\document_processing\store.py", line 108, in delete_by_file
+    res_text = self.text_db.delete_by_hashsource(source_hash)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\database\text_db.py", line 129, in delete_by_hashsource
+    res = self.client.delete_by_query(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\utils.py", line 421, in wrapped
+    return api(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\__init__.py", line 1637, in delete_by_query
+    return self.perform_request(  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 271, in perform_request
+    response = self._perform_request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 351, in _perform_request
+    raise HTTP_EXCEPTIONS.get(meta.status, ApiError)(
+elasticsearch.NotFoundError: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+2026-05-14 11:53:14 [INFO] logs/pipeline/DocumentStore - delete_by_file:99 - [1acb3a94]开始删除
+2026-05-14 11:53:14 [ERROR] logs/pipeline/DocumentStore - delete_by_file:115 - [1acb3a94] 删除数据失败: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+Traceback (most recent call last):
+  File "C:\GraduationProject\code\rag-qa-system\rag\document_processing\store.py", line 108, in delete_by_file
+    res_text = self.text_db.delete_by_hashsource(source_hash)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\database\text_db.py", line 129, in delete_by_hashsource
+    res = self.client.delete_by_query(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\utils.py", line 421, in wrapped
+    return api(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\__init__.py", line 1637, in delete_by_query
+    return self.perform_request(  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 271, in perform_request
+    response = self._perform_request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\34558\.conda\envs\GProject\Lib\site-packages\elasticsearch\_sync\client\_base.py", line 351, in _perform_request
+    raise HTTP_EXCEPTIONS.get(meta.status, ApiError)(
+elasticsearch.NotFoundError: NotFoundError(404, 'index_not_found_exception', 'no such index [rag_text]', rag_text, index_or_alias)
+2026-05-14 11:54:11 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:54:11 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 11:54:16 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 11:54:16 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 11:54:17 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 11:54:17 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 12 条消息
+2026-05-14 11:54:37 [INFO] logs/pipeline/DocumentStore - store:45 - [27041a45]开始存入程序
+2026-05-14 11:54:37 [INFO] logs/pipeline/FileParser - parse_file:16 - [a4ed206d]开始解析文件,文件类型pdf
+2026-05-14 11:54:37 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [a4ed206d]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 11:54:39 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [a4ed206d]PDF 解析到 108 页
+2026-05-14 11:54:39 [INFO] logs/pipeline/FileParser - parse_file:37 - [a4ed206d] 解析完成，108页，耗时1123.95ms
+2026-05-14 11:54:39 [INFO] logs/pipeline/DocumentStore - store:56 - [27041a45]文档分块完成，共197个块
+2026-05-14 11:54:39 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [1a0cfc63] 开始batch embed | 文本数=197
+2026-05-14 11:54:42 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [1a0cfc63] Batch embed完成 | 结果数=197 | 有效=197
+2026-05-14 11:54:42 [INFO] logs/pipeline/DocumentStore - store:61 - [27041a45]嵌入完成,共197个嵌入向量
+2026-05-14 11:54:43 [INFO] logs/pipeline/DocumentStore - store:87 - [27041a45] 存入完成 | 向量:197 | 文本:197 | 耗时:5806.06ms
+2026-05-14 11:58:22 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 11:58:22 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 12:26:57 [INFO] logs/pipeline/DocumentStore - delete_by_file:99 - [d62d7123]开始删除
+2026-05-14 12:26:58 [INFO] logs/pipeline/DocumentStore - delete_by_file:111 - [d62d7123] 删除完成 | 向量:197 | 文本:197 | 耗时:785.12ms
+2026-05-14 15:40:27 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 15:40:27 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 15:40:28 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 15:40:28 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 8 条消息
+2026-05-14 15:40:28 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 15:40:28 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 15:48:18 [INFO] logs/pipeline/DocumentStore - close:125 - 资源清理完成
+2026-05-14 15:55:34 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 15:55:34 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 15:55:35 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 15:55:35 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 15:55:36 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 15:55:36 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 8 条消息
+2026-05-14 15:55:37 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 15:55:37 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 15:57:08 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 15:57:08 [INFO] session_service - get_session:68 - [user=2] 会话历史: 3 条
+2026-05-14 15:57:09 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 15:57:09 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 10 条消息
+2026-05-14 15:57:32 [INFO] chat_service - chat:43 - [session=3] 收到对话请求: query=有什么很好的重排序模型 吗...
+2026-05-14 15:57:32 [INFO] chat_service - chat:55 - [session=3] 会话有效, 准备流式响应
+2026-05-14 15:57:32 [INFO] chat_service - _sse_generator:78 - [session=3] 加载历史消息: 10 条
+2026-05-14 15:57:32 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 15:57:32 [INFO] chat_service - _sse_generator:99 - [session=3] 管道线程已启动
+2026-05-14 15:57:32 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 15:57:33 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 15:57:33 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 15:57:33 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 15:57:33 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 15:57:33 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 15:57:33 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 15:57:33 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 15:57:33 [INFO] chat_service - run_pipeline:85 - [session=3] 开始执行对话管道
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - chat:161 - [303ce54a] 收到对话: query=有什么很好的重排序模型 吗...
+2026-05-14 15:57:33 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [303ce54a] 历史消息: 10 条
+2026-05-14 15:57:33 [DEBUG] logs/pipeline/IntentRouterPipeline - route:139 - [303ce54a] 正在进行意图分类: 有什么很好的重排序模型 吗
+2026-05-14 15:57:33 [ERROR] logs/pipeline/IntentRouterPipeline - route:162 - [303ce54a] 意图分类出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}，默认返回 search_broad
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - chat:184 - [303ce54a] 意图: search_broad (置信度=0.500, top_k=8, max_rewrite=5)
+2026-05-14 15:57:33 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:125 - [303ce54a] 正在改写查询: 有什么很好的重排序模型 吗, 历史: 10 条
+2026-05-14 15:57:33 [ERROR] logs/pipeline/QueryRewriterPipeline - rewrite:145 - [303ce54a] 改写查询时出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-14 15:57:33 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [303ce54a] 查询重写完成: 1 个, top_k=8, max_rewrite=5
+2026-05-14 15:57:33 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [303ce54a]开始rerank，原始查询:有什么很好的重排序模型 吗...
+2026-05-14 15:57:33 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [303ce54a]开始检索：1个查询，top_k=8
+2026-05-14 15:57:33 [INFO] logs/models/SiliconFlowEmbedding - embed:22 - [853f4c31] 开始embed | text长度=1
+2026-05-14 15:57:34 [INFO] logs/models/SiliconFlowEmbedding - embed:49 - [853f4c31] Embed成功 | 向量维度=1024
+2026-05-14 15:57:34 [DEBUG] logs/pipeline/HybridSearch - retrieve:60 - [303ce54a] 生成1024个向量
+2026-05-14 15:57:34 [ERROR] logs/pipeline/HybridSearch - retrieve:118 - [303ce54a] 检索失败：<ParamError: (code=1, message=`search_data` value [-0.025136942, -0.02779173, -0.06245249, -0.017339664, -0.005045025, 0.0008000333, 0.02164673, -0.0052492395, -0.012382821, 0.011946545, -0.0259538, 0.002059549, 0.00026759633, 0.053132884, -0.012095065, -0.041028537, -0.029406881, -0.050385274, -0.016745584, -0.020347185, -0.029518269, 0.013403893, -0.011872285, 0.05253881, -0.026863482, 0.047006454, 0.00089633896, -0.007904028, 0.014545638, 0.037649717, 0.020867003, 0.0035273405, 0.033881035, -0.061747022, 0.0015548145, -0.005806188, 0.035236273, -0.06768781, -0.028088769, 0.030910641, -0.0044138166, 0.0044393437, 0.004887223, -0.053912614, 0.036183085, -0.041808266, 0.028608587, -0.014657028, 0.013747346, -0.024208695, -0.03176463, -0.018880554, 0.007583782, 0.00082788075, 0.0056483857, 0.05573198, 0.018583514, 0.041325577, -0.04050872, -0.015000479, -0.023001973, 0.04485292, -0.025526805, 0.036090262, 0.039506212, 0.03428946, 0.00045223057, -0.0029402238, 0.02032862, -0.04763766, -0.028627152, 0.02407874, -0.072254784, -0.02227794, -0.05573198, -0.0054116827, 0.020050146, 0.015371778, -0.04422171, -0.020347185, 0.031040596, -0.037965324, 0.014489943, 0.02591667, -0.07548509, 0.060298957, 0.033398345, -0.003596959, -0.02370744, -0.002891491, -0.03547762, 0.02367031, -0.021591036, -0.058479592, -0.009681622, -0.012160042, -0.038652226, 0.01582662, -0.007904028, 0.026380794, 0.013543131, -0.0031397971, 0.005300293, -0.00036317683, 0.049048595, -0.029778179, -0.0059315013, 0.045521256, -0.059036538, -0.0037663642, 0.01777594, 0.0054070414, -0.010665564, 0.04373902, -0.01575236, -0.026510749, -0.013543131, 0.0011585689, 0.0077183777, 0.0050914376, 0.030409388, 0.03690712, 0.116587885, -0.04336772, -0.017302534, -0.033695385, 0.029926699, 0.0013273939, -0.04808322, -0.05239029, 0.057996903, 0.049122855, -0.007509522, -0.007681248, -0.015631687, -0.042773645, 0.0073610027, -0.012967617, -0.0059918375, -0.045855425, 0.028478634, 0.005416324, -0.018221498, -0.030557906, 0.009560949, -0.011315336, -0.017386075, 0.056808747, 0.028497199, -0.021553906, -0.049939714, 0.027327606, -0.018852707, 0.035681833, 0.034085248, 0.003072499, 0.0034530805, 0.054840863, -0.049679805, 0.027420431, -0.028794236, 0.015835902, -0.0357004, -0.02565676, 0.0026362229, 0.026343664, 0.04392467, -0.0034321952, 0.009157161, -0.032637183, 0.0050125364, -0.0038475858, 0.009644492, -0.012104347, 0.027271912, -0.010823365, 0.07752723, 0.029499706, 0.058665242, -0.027123392, -0.03323126, -0.0014909975, -0.016012268, -0.03105916, -0.02944401, -0.012197172, 0.012095065, 0.0007066284, 0.011835155, 0.016374286, -0.0032326218, -0.02569389, 0.03447511, 0.0033068818, 0.04852878, 0.017636701, -0.013691651, -0.008818351, 0.03169037, -0.04451875, 0.015260388, 0.003292958, -0.018964097, -0.01312542, -0.08176004, -0.002115244, -0.024394345, -0.037686847, -0.012949052, -0.027624644, 0.0020259002, 0.018351452, 0.04006316, 0.069655694, -0.04444449, -0.053875484, 0.010424219, 0.027160522, 0.018917684, -0.014722005, -0.0018356094, 0.025155507, -0.0046481993, -0.031411894, 0.033398345, 0.010786235, 0.046635155, 0.01376591, 0.029221231, -0.055917628, -0.014573486, -0.00077624695, -0.025025552, -0.01095332, 0.024951292, -0.0026176579, -0.022482155, 0.015501733, 0.01736751, -0.032767136, -0.0017462656, 0.029184101, 0.019103333, -0.013830887, -0.061598502, -0.0126148835, 0.029648224, 0.0011893171, 0.013979407, 0.028107334, 0.031708933, -0.02021723, -0.060967296, 0.01312542, 0.078344084, 0.022630673, 0.03477215, -0.012735556, 0.05131352, -0.005314217, 0.032470096, 0.016894104, -0.0025410776, 0.041882526, 0.05142491, -0.018221498, -0.00016403873, 0.003889357, 0.021386823, 0.013320351, -0.032284446, -0.009802293, 0.035459053, -0.020681353, -0.023169057, -0.042402346, -0.057365693, -0.023094798, 0.09817145, 0.008920458, -0.008577007, 0.033713948, 0.008604854, -0.045818295, 0.018899119, -0.047006454, 0.0056808745, -0.016411416, -0.008224273, -0.058628112, 0.031634673, 0.029332621, 0.08844342, 0.039172042, -0.007579141, 0.008001493, -0.013775192, -0.14688589, -0.0051517733, -0.021108348, 0.0018773805, 0.01564097, -0.0558805, -0.046152465, 0.028979886, -0.009579514, 0.008238196, -0.049754065, -0.04789757, -0.015037609, -0.054172523, -0.031077726, 0.011881568, 0.015009762, -0.020792743, -0.0010361562, -0.064086206, -0.028887061, -0.060558867, 0.034010988, -0.008219631, 0.03577466, -0.0025294744, -0.016290743, 0.030595036, -0.04032307, -0.039134912, -0.013830887, -0.010693411, 0.0019852894, 0.01984593, 0.015158282, 0.008321739, 0.0026199785, -0.033027045, -0.016513523, -0.016448546, -0.01001579, 0.026752092, -0.007783355, 0.0702869, 0.017980155, -0.016476393, 0.024672817, 0.0435905, -0.0059129363, 0.029926699, -0.02172099, 0.032061666, -0.006455961, -0.010442784, -0.010795518, 0.0055184313, 0.01721899, 0.055991888, -0.004246732, -0.024282955, 0.003323126, 0.012726273, 0.014016537, 0.027736034, 0.0038499064, 0.009064336, 0.0031235528, -0.028014509, 0.038577966, 0.019381808, 0.03969186, -0.023150492, -0.02422726, -0.046709415, 0.04095428, 0.035310533, -0.03349117, -0.028125899, 0.0035876764, -0.10069629, -0.020996958, 0.009746599, -0.0056855157, 0.019251853, -0.013756628, -0.0059129363, -0.01290264, 0.037649717, -0.01672702, 0.23035389, 0.003933449, 0.0051564146, -0.054098263, -0.033602558, 0.013385328, 0.07541083, 0.0009357895, 0.019530326, -0.010758388, 0.02355892, 0.0070500397, 0.010674846, 0.046041075, 0.002422726, 0.022983408, -0.028311549, -0.017274685, 0.10099333, -0.01087906, -0.0069897035, -0.021071218, 0.018973378, 0.023057668, -0.046486635, 0.0013772872, 0.01308829, -0.0034925311, 0.0069108023, 0.07481675, -0.016392851, 0.012642731, 0.025174072, 0.018824859, -0.050236754, -0.0047943983, -0.010275699, -0.007175353, 0.018110108, 0.027810294, -0.04864017, 0.0027290476, -0.061041553, 0.04091715, 0.014489943, -0.028385809, 0.014991197, 0.011500986, -0.007848333, -0.0198088, -0.03349117, -0.028274419, -0.019715976, 0.004102854, 0.024988422, 0.001905228, -0.035273403, 0.02220368, 0.0038174177, 0.04392467, 0.020235796, -0.0009091024, -0.037612587, 0.0047015734, 0.003706028, -0.037426937, -0.0023090157, 0.02602806, 0.010294264, 0.014675593, 0.03698138, -0.014434248, 0.00019739763, -0.019270418, 0.053986873, 0.01203937, 0.06215545, 0.020904133, -0.0032233393, 0.0032651105, -0.0105077615, 0.005021819, -0.0071846354, -0.011686636, 0.0059918375, -0.04351624, -0.02786599, 0.03117055, -0.014898372, -0.058182552, -0.009147879, -0.032971352, -0.04084289, 0.019511761, 0.0058943713, -0.04325633, 0.01552958, -0.019344678, -0.02183238, -0.0042397706, 0.024282955, -0.014944784, 0.0024157641, 0.028552892, -0.027253347, -0.018778447, 0.0042026406, -0.008094318, 0.014341423, -0.03469789, -0.0051564146, 0.03105916, -0.0077137365, 0.007685889, -0.0011434848, 0.0006753, -0.023726005, 0.011324619, -0.030446518, 0.013143985, -0.017497465, -0.024784207, -0.019530326, -0.028887061, 0.004460229, -0.013487436, 0.028422939, 0.0021512136, -0.038912136, 0.053429924, 0.0050728726, -0.011705201, 0.019381808, 0.013617391, 0.0015362495, -0.03492067, 0.0035644704, 0.0057783406, 0.032265883, -0.0132368095, -0.014545638, -0.02448717, 0.026158014, -0.0024505733, 0.007523446, -0.0019458388, 0.015009762, -0.026232274, -0.058405332, 0.019697411, 0.009375299, 0.04318207, -0.019753106, -0.018472126, -0.015176847, 0.008920458, -0.006237823, -0.01733038, 0.021164043, -0.037501197, 0.018527819, 0.0034066683, 0.033361215, 0.09119103, -0.004376687, 0.031077726, 0.01826791, 0.07752723, 0.02355892, -0.042068176, 0.014397118, 0.02430152, -0.03102203, 0.02003158, 0.0695443, -0.0062053343, -0.028125899, -0.041325577, -0.00019377166, -0.0075930646, 0.011798025, -0.02565676, -0.053875484, 0.01549245, 0.014824112, 0.02014297, -0.0039450517, 0.008618778, -0.0081082415, -0.0020317016, -0.014341423, 0.10715689, 0.022259375, 0.015009762, 0.031374764, 0.020050146, 0.01977167, 0.04006316, 0.010034355, -0.022816323, -0.009277834, -0.027012002, -0.0062795943, -0.038875006, 0.030168043, 0.019827366, -0.023206187, 0.004295465, -0.0018054413, -0.04388754, 0.013645238, -0.01552958, -0.011120405, -0.0010257135, 0.0050543076, -0.017562442, -0.028367244, -0.017692396, -0.032098796, -0.006469885, 0.04745201, 0.0126334485, 0.053392794, -0.03169037, -0.09831997, -0.014805547, 0.015408908, -0.016086528, 0.009774446, 0.03987751, 0.011408161, 0.028478634, -0.06289805, 0.004246732, 0.016782714, 0.022296505, -0.015548145, 0.031337634, -0.0033184846, -0.015084022, -0.02003158, 0.024747077, -0.010210723, 0.06895022, 0.011491704, -0.0018112429, -0.006585916, -0.004676047, 0.009793011, 0.038058147, -0.039097782, -0.0026988795, -0.01593801, 0.015065457, -0.013608108, -0.0014248599, -0.035904612, -0.006367778, 0.006581275, -0.0104706315, -0.021256868, -0.012243585, -0.019641716, -0.015631687, -0.06315796, -0.02238933, 0.029908134, -0.056177538, 0.007982928, -0.03686999, -0.0060521737, -0.023354707, -0.020867003, -0.03326839, 0.0051935446, 0.0041469457, 0.0041283807, -0.026343664, -0.041734006, 0.028831366, -0.033973858, 0.025415417, 0.019177593, 0.038726486, -0.034345157, -0.06297231, 0.033583995, 0.012364256, -0.015761642, -0.072700344, 0.0041910373, 0.036814295, -0.014675593, 0.056548838, -0.01830504, 0.0551379, -0.0049754065, 0.0049243527, -0.016773432, -0.05135065, -0.042773645, 0.010795518, -0.036387302, 0.018100826, -0.017311815, 0.016550653, 0.028255854, -0.015223259, -0.023726005, 0.020644223, -0.0022637635, -0.016355721, -0.0031722859, 0.02201803, -0.024895597, 0.016931234, 0.07641333, -0.056140408, -0.04808322, -0.026158014, 0.015232542, 0.0066184048, 0.012846945, -0.0018878233, 0.009672339, 0.0036410508, 0.0015408908, 0.04370189, -0.004785116, -0.03503206, 0.0062285406, -0.026510749, 0.0219809, -0.010981168, 0.016782714, -0.019381808, -0.003402027, 0.007156788, 0.032377273, -0.019233288, 0.029295491, -0.06835614, 0.04318207, -0.03157898, 0.007904028, -0.036164522, 0.008372792, 0.021275433, 0.024431475, 0.058813762, 0.04741488, 0.016736303, -0.042253826, -0.042031046, 0.019029073, -0.033973858, -0.06857892, -0.007560576, 0.07541083, 0.010693411, -0.035830352, 0.02569389, 0.0037594023, -0.0006445518, -0.009885835, 0.014916937, 0.020198666, -0.04778618, -0.01578949, -0.023094798, 0.008150013, 0.0045020003, -0.0052353158, 0.045038566, -0.037464067, 0.0026153373, 0.009198933, 0.0065766335, 0.022370765, 0.035421923, -0.026900612, -0.010665564, 0.00138773, -0.03544049, -0.0052863695, -0.0015687383, -0.021108348, 0.0026571085, 0.02385596, 0.029258361, -0.028961321, 0.020495705, -0.01395156, 0.006646252, -0.17985724, -0.03109629, -0.024468604, -0.01020144, -0.023410402, 0.0053652707, 0.024097305, -0.025415417, -0.02153534, -0.016875539, 0.00547666, 0.0011278207, 0.02764321, -0.03584892, -0.0025085888, 0.04355337, -0.027587514, -0.030019524, 0.046486635, -0.037501197, -0.0045020003, -0.0036108827, 0.006274953, -0.016819844, -0.011649506, -0.017051905, -0.021628166, 0.027624644, -0.042142436, -0.0183793, 0.041436967, 0.0046157106, 0.0259538, 0.08027484, -0.0407315, -0.023985915, 0.014304293, -0.011389596, 0.004130701, -0.0049522, 0.022612108, 0.028460069, 0.013143985, -0.0043070684, -0.0048732995, 0.029146971, 0.014675593, -0.02617658, -0.046226725, -0.020904133, 0.022760628, 0.014861242, -0.0034345158, 0.0038870363, 0.018249346, 0.0059918375, -0.023800265, -0.009857988, 0.022147985, 0.037278417, -0.006507015, -0.016903387, -0.037742544, -0.058368202, -0.030966336, -0.0045391303, -0.049976844, -0.012206455, 0.0046226727, 0.034493677, 0.010823365, -0.03686999, 0.0066648168, -0.05528642, -0.006182128, 0.011083275, -0.01575236, -0.016253613, 0.008521312, -0.036461562, 0.021071218, 0.0073192315, -0.015733795, 0.0105448915, -0.0061078686, -0.028200159, -0.02032862, -0.008256761, -0.07745297, 0.022222245, -0.016680608, -0.03984038, 0.005021819, 0.012670578, -0.036498692, 0.0403602, -0.015956575, -0.010591304, -0.03536623, -0.006706588, -0.033175565, 0.014137209, -0.018175086, 0.0054627364, -0.0051703383, 0.013710216, 0.025675325, 0.008047906, 0.0042513735, 0.008066471, 0.025638195, -2.9189032e-05, 0.03161611, 0.053021498, 0.013738063, 0.021925205, 0.013273939, 0.0064791674, -0.025378287, 0.015269671, -0.0019713657, 0.053429924, -0.008920458, -0.030632166, -0.020904133, 0.034456547, 0.030130913, -0.01725612, 0.019975886, -0.02006871, 0.035718963, -0.026083754, -0.0021744198, -0.020829873, 0.04812035, 0.0047085355, -0.037464067, 0.07752723, 0.006711229, -0.020699918, -0.00645132, -0.0006782008, 0.023911655, -0.002051427, 0.015464603, -0.0028334754, 0.013728781, -0.011111123, -0.042402346, 0.0039218455, 0.04734062, 0.011983675, 0.038652226, -0.04838026, -0.022946278, 0.0098115755, -0.004290824, -0.0032210187, -0.023299012, 0.046672285, 0.032043103, -0.023299012, -0.02587954, 0.008934382, -0.0015211656, 0.02231507, 0.04095428, 0.003917204, -0.010934755, 0.009607362, -0.028274419, -0.0038081354, -0.023688875, 0.015186129, 0.050942224, -0.018648492, 0.022612108, 0.060781647, 0.02944401, -0.02948114, 0.010934755, -0.012800532, 0.020050146, 0.016374286, -0.0046296343, 0.018240063, -0.019660281, 0.049791194, 0.039506212, 0.027736034, 0.058182552, 0.0076348353, 0.010776953, -0.011009015, 0.069210134, 0.016522804, 0.032692876, 0.032395836, -0.02606519, 0.06857892, -0.07511379, -0.012679861, 0.007894745, 0.0071521467, -0.035644703, -0.042662255, -0.0053606294, -0.027698904, -0.034530807, -0.008182501, -0.029406881, -0.016030833, 0.007486316, 0.018230781, 0.027921684, -0.00836351, 0.011547399, -0.0061264336, 0.017311815, -0.029351186, -0.04385041, 0.022110855, -0.012475646, -0.05135065, -0.041808266, -0.009709469, -0.050422404, -0.028367244, -0.023391837, -0.016058682, 0.0045205653, 0.009120031, -0.0015281275, 0.032061666, 0.026733527, 0.01395156, 0.034270898, 0.008567724, -0.029815309, -0.028849931, -0.0024714589, -0.014062949, 0.024617122, 0.027995944] is illegal)>
+2026-05-14 15:57:34 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [303ce54a]搜索无结果，提前结束
+2026-05-14 15:57:34 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [303ce54a] 检索结果: 0 条
+2026-05-14 15:57:34 [INFO] logs/pipeline/ChatPipeline - _retrieve:123 - [303ce54a] 检索无结果，回退为多轮对话
+2026-05-14 15:57:34 [INFO] logs/pipeline/ChatPipeline - chat:206 - [303ce54a] 检索无结果，已使用多轮对话模式
+2026-05-14 15:57:34 [INFO] logs/pipeline/ChatPipeline - chat:210 - [303ce54a] 开始流式生成
+2026-05-14 15:57:40 [INFO] chat_service - run_pipeline:90 - [session=3] 管道完成, AI回复长度=743
+2026-05-14 15:57:40 [INFO] chat_service - _sse_generator:118 - [session=3] 消息已持久化: user=有什么很好的重排序模型 吗..., ai_len=743
+2026-05-14 15:57:40 [INFO] chat_service - _sse_generator:126 - [session=3] SSE流结束
+2026-05-14 15:57:40 [DEBUG] chat_service - _sse_generator:135 - [session=3] 线程池已关闭
+2026-05-14 16:00:13 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 16:00:13 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 8 条消息
+2026-05-14 16:00:19 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 16:00:19 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 16:01:19 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=做算法题有什么常用网站...
+2026-05-14 16:01:19 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 16:01:19 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 16:01:22 [INFO] session_service - create_session:38 - [user=2] 标题生成: 算法题常用网站
+2026-05-14 16:01:22 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=6, title=算法题常用网站
+2026-05-14 16:01:22 [INFO] chat_service - chat:43 - [session=6] 收到对话请求: query=做算法题有什么常用网站...
+2026-05-14 16:01:22 [INFO] chat_service - chat:55 - [session=6] 会话有效, 准备流式响应
+2026-05-14 16:01:22 [INFO] chat_service - _sse_generator:78 - [session=6] 加载历史消息: 0 条
+2026-05-14 16:01:22 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 16:01:22 [INFO] chat_service - _sse_generator:99 - [session=6] 管道线程已启动
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 16:01:22 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 16:01:22 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 16:01:22 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 16:01:22 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 16:01:22 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 16:01:22 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 16:01:22 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 16:01:22 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 16:01:22 [INFO] chat_service - run_pipeline:85 - [session=6] 开始执行对话管道
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - chat:161 - [2eb6de6e] 收到对话: query=做算法题有什么常用网站...
+2026-05-14 16:01:22 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [2eb6de6e] 历史消息: 0 条
+2026-05-14 16:01:22 [DEBUG] logs/pipeline/IntentRouterPipeline - route:139 - [2eb6de6e] 正在进行意图分类: 做算法题有什么常用网站
+2026-05-14 16:01:22 [ERROR] logs/pipeline/IntentRouterPipeline - route:162 - [2eb6de6e] 意图分类出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}，默认返回 search_broad
+2026-05-14 16:01:22 [INFO] logs/pipeline/ChatPipeline - chat:184 - [2eb6de6e] 意图: search_broad (置信度=0.500, top_k=8, max_rewrite=5)
+2026-05-14 16:01:22 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:125 - [2eb6de6e] 正在改写查询: 做算法题有什么常用网站, 历史: 0 条
+2026-05-14 16:01:23 [ERROR] logs/pipeline/QueryRewriterPipeline - rewrite:145 - [2eb6de6e] 改写查询时出错: Error code: 400 - {'error': {'message': 'This response_format type is unavailable now', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-14 16:01:23 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [2eb6de6e] 查询重写完成: 1 个, top_k=8, max_rewrite=5
+2026-05-14 16:01:23 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [2eb6de6e]开始rerank，原始查询:做算法题有什么常用网站...
+2026-05-14 16:01:23 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [2eb6de6e]开始检索：1个查询，top_k=8
+2026-05-14 16:01:23 [INFO] logs/models/SiliconFlowEmbedding - embed:22 - [b4918cb9] 开始embed | text长度=1
+2026-05-14 16:01:23 [INFO] logs/models/SiliconFlowEmbedding - embed:49 - [b4918cb9] Embed成功 | 向量维度=1024
+2026-05-14 16:01:23 [DEBUG] logs/pipeline/HybridSearch - retrieve:60 - [2eb6de6e] 生成1024个向量
+2026-05-14 16:01:23 [ERROR] logs/pipeline/HybridSearch - retrieve:118 - [2eb6de6e] 检索失败：<ParamError: (code=1, message=`search_data` value [-0.03614526, -0.0023501513, -0.03476379, -0.037943058, 0.0034773252, -0.02261444, 0.03540721, -0.013029324, -0.006916802, -0.0260208, -0.0142026255, 0.0027156253, 0.012679226, 0.04621294, -0.023409259, 0.015593556, -0.030430144, -0.0043549356, 0.0064389654, -0.036618363, -0.0211762, 0.010654335, 0.022217032, -0.011449152, 0.0044471915, -0.015508397, -0.036353424, -0.026720997, 0.009093087, -0.038207997, -0.017211577, 0.011193675, 0.013606513, -0.03571, -0.073236726, -0.045304578, 0.005828659, -0.07304748, -0.062184982, 0.02036246, 0.01754275, 0.022406274, -0.003337759, -0.047045607, 0.022992926, -0.03535044, 0.009381681, -0.02641821, 0.0087997615, -0.014259398, -0.014429716, 0.0126319155, 0.025907254, -0.057681017, 0.0082225725, 0.043942034, -0.020173216, -0.016634388, -0.07550763, -0.021157276, -0.04114125, 0.0012513639, -0.05692405, -0.015357004, 0.015763873, 0.055712897, 0.022368426, 0.01654923, -0.023068622, -0.032227945, -0.0056015686, 0.021138351, -0.02144114, -0.0031579789, -0.027515814, 0.011345069, -0.011846561, -0.036731906, -0.031414203, -0.009447916, 0.02019214, -0.026853466, 0.010616487, -0.061125226, -0.026588527, 0.011912796, -0.012130423, 0.019813657, -0.002717991, -0.015177223, -0.04042213, 0.023125395, 0.0057435003, -0.0071533546, -0.015517859, -0.029483931, -0.027118405, 0.02166823, 0.01996505, 0.013445657, 0.045115337, 0.009362757, 0.010143381, 0.028745888, 0.049467906, -0.024506863, -0.047461938, -0.0073236725, -0.05491808, 0.002696701, 0.0014524338, 0.014117467, 0.030657234, 0.023314636, -0.013852527, -0.06101168, -0.022917228, 0.020797716, -0.021327594, 0.015650328, 0.05760532, -0.004213004, 0.08644583, -0.04083846, -0.0033685109, -0.01386199, 0.01754275, 0.019331088, -0.01386199, -0.0037848437, 0.016274828, 0.053063508, 0.0015919999, -0.012262894, -0.020286761, -0.018365953, 0.012234507, -0.009537806, -0.0076595773, -0.049430057, 0.036656212, 0.035918165, -0.057491776, -0.052912116, 0.030789703, -0.03400682, 0.0169561, 0.022198107, -0.017334584, -0.03158452, 0.014931208, -0.017306197, 0.0118276365, 0.05522087, 0.0014820028, -0.031262808, -0.008033331, 0.040346432, 0.011335607, -0.009878442, -0.012423749, -0.028234934, -0.04768903, 0.05491808, 0.0037824782, -0.026777769, 0.01924593, 0.024961043, -0.006869491, -0.015319155, 0.011184213, -0.015489473, -0.009348564, -0.008127952, 0.051398177, -0.013710596, 0.04939221, 0.031679142, 0.03347694, -0.029105447, 0.028253857, -0.017069645, 0.0006339613, -0.054047566, -0.032265794, 0.00032585138, 0.007853551, -0.015830109, 0.0013743713, 0.023882363, -0.029446084, -0.05840014, 0.030941097, -0.01233859, -0.016246442, 0.006850567, -0.001208193, 0.013313187, 0.031868383, -0.023787742, -0.025850482, 0.01705072, -0.019737959, 0.018318644, -0.049316514, -0.0076737707, 0.005705652, -0.07766499, 0.016322138, 0.012243969, 0.0702467, 0.039589465, 0.033174153, 0.024336545, -0.05669696, -0.030203052, 0.025225982, -0.007829895, -0.036391273, -0.034461003, 0.0027463771, 0.010304237, 0.017211577, -0.018640354, 0.046402182, -0.04284443, 0.039324526, 0.054615293, 0.085840255, -0.009831131, -0.022008866, 0.033344474, -0.014808201, -0.039854404, 0.015262382, -0.028821584, 0.0051331944, 0.010417782, 0.0015766239, -0.016861478, -0.04693206, -0.04625079, -5.418536e-05, 0.00914986, -0.032738898, 0.026134346, 0.0061976817, 0.03440423, -0.024109455, -0.018318644, 0.06574273, 0.026550679, -0.053063508, -0.013445657, 0.08326656, 0.031508822, 0.028935129, 0.010058222, 0.05056551, -0.04405558, 0.017098032, -0.031603444, 0.019681187, 0.0568862, 0.040005796, -0.00068127183, -0.003898389, -0.037715968, 0.050679058, 0.017060183, -0.07603751, 0.00010681834, -0.00392441, -0.057756715, -0.02068417, -0.024279771, -0.024639333, -0.028178161, 0.04768903, 0.026172195, -0.002682508, 0.0111369025, 0.034688093, 0.011818174, 0.0051615806, 0.0023442376, -0.0063159578, 0.00028578527, -0.017836075, -0.03417714, 0.009462109, -0.03351479, 0.09303146, -0.019794732, -0.018820135, -0.003628719, -0.04212531, -0.16017458, -0.04288228, -0.026796693, 0.024014832, 0.0012300742, -0.017438667, -0.05257148, 0.020570625, -0.02229273, 0.037318558, -0.071230754, -0.056507714, -0.012376439, -0.046629272, 0.009173515, 0.020646323, -0.03512335, -0.021232974, -0.019397324, -0.045834456, -0.05522087, -0.004832772, 0.019889353, -0.0026139077, 0.010701645, -0.013738982, 0.04666712, 0.049770694, 0.018290257, -0.03306061, -0.00614564, -0.0012963089, -0.0019125288, 0.00062272506, -0.0104840165, 0.04239025, -0.0015435065, -0.013928224, 0.0066991732, -0.0030136819, -0.031262808, 0.057718866, -0.025736937, 0.058665078, 0.03177376, 0.013265877, 0.021819623, -0.0333634, 0.00014156202, 0.011089592, -0.014287785, -0.01615182, 0.018280795, -0.0023702583, -0.055485807, 0.00059729564, -0.057756715, 0.0702467, -0.012821157, 0.02225488, -0.04693206, -0.051398177, -0.029900264, 0.0211762, -0.013351036, -0.026910238, 0.03777274, -0.027875373, 0.034971956, -0.027856449, 0.059194956, -0.002822074, -0.017637372, -0.011685705, 0.02759151, 0.0050811525, -0.056129232, -0.038321543, 0.01247106, -0.11505925, -0.016095048, 0.004567833, 0.0089275, -0.0021431677, -0.014874436, 0.007645384, -0.010067684, -0.0027369151, -0.0013388884, 0.21482773, -0.0073425965, 0.023352485, -0.024166226, 0.040800616, 0.010550251, 0.013918762, 0.014212088, -0.019983975, -0.033798654, 0.056053534, 0.034707017, 0.020930186, 0.0069972295, 0.022690138, 0.05840014, 0.0026777769, -0.0034489387, 0.118692696, -0.011600546, -0.011184213, 0.00094739365, 0.011231524, 0.056242775, -0.05279857, -0.008790299, 0.011326144, 0.041936066, -0.04189822, 0.06559134, 0.0018924219, 0.0032431378, 0.010881426, -0.003221848, -0.0066140145, 0.008260421, 0.00024631052, -0.036731906, 0.06869491, -0.018593045, -0.027610434, -0.029692098, -0.011042281, 0.05128463, -0.001431144, -0.006051019, 0.012423749, 0.018640354, -0.04163328, -0.02337141, -0.030486915, -0.039362375, -0.043601397, 0.017419742, 0.016000427, -0.0062591853, 0.005289319, -0.0068931463, 0.00095744716, 0.053782627, 0.010323161, 0.0064578895, -0.027194101, -0.012688688, 0.009320177, 0.041292645, -0.016795244, 0.0046293368, 0.065099314, 0.03198193, 0.02831063, -0.010862501, -0.0027440116, 0.005213622, -0.0026896044, 0.010124457, 0.024620408, 0.05257148, -0.03809445, 0.0029663711, -0.028480949, 0.02516921, -0.028689114, 0.009518881, 0.025225982, -0.0051615806, -0.042201005, 0.02552877, -0.0061882194, -0.036277726, -0.0062923026, -0.02045708, -0.04405558, -0.019908277, -0.007829895, 0.002722722, 0.04625079, -0.03799983, -0.060216863, -0.035691075, -0.0052325465, -0.008463857, 0.027042707, 0.02965425, 0.011950644, 0.031092491, 0.030051658, 0.041481886, 0.011013895, -0.0060368255, -0.016634388, 0.03678868, -0.05885432, -0.025774784, 0.015413776, 0.007475066, 0.0031319582, -0.008236766, -0.020040747, -0.016530305, -0.06559134, 0.043639246, -0.011231524, 0.008496974, 0.00020092198, -0.02516921, 0.034385305, 0.06070889, -0.032455035, 0.05465314, 0.0087997615, -0.039778706, -0.007233782, -0.00861052, -0.0078393575, 0.017325122, 0.0126319155, -0.012584605, 0.0029734678, -0.018119939, -0.006249723, -0.009608772, 0.03495303, 0.026777769, 0.022463048, -0.02225488, 0.0507926, -0.030335521, -0.03224687, 0.048975877, -0.002952178, 0.008336118, -0.013540278, -0.055258717, 0.021138351, 0.0025405763, -0.023712045, 0.033609413, 0.032492884, -0.026437134, -0.005554258, 0.0054028644, 0.013710596, 0.09833024, 0.0156219425, 0.01372952, 0.00269197, 0.051814508, 0.01507314, -0.0762646, 0.007924517, 0.024393318, -0.04409343, -0.0037115123, 0.042201005, -0.0018486596, 0.00024128378, -0.046061546, -0.032814596, -0.017306197, -0.0025807903, 0.03413929, 0.0031083028, -0.011165289, -0.038605407, 0.0302409, 0.03593709, -0.012064189, -0.013597051, 0.0069783055, -0.022084562, 0.124369964, 0.026872389, -0.0053555537, 0.00897481, 0.025869407, 0.04254164, 0.013105021, -0.011411304, -0.010190692, -0.0051615806, -0.004683744, -0.00807591, 0.014533799, 0.027761828, -0.010361009, -0.011931719, 0.0036003324, -0.013474043, -0.020078596, -0.02045708, -0.019331088, -0.042995825, 0.0013850163, 0.011288296, 0.019700112, -0.033382323, 0.028197085, -0.0023974618, 0.009840594, 0.01911346, 0.055561505, 0.026910238, -0.046402182, -0.023560653, -0.037526723, 0.033609413, 0.003503346, -0.006566704, 0.020343535, 0.00583339, -0.014316171, -0.04284443, -0.042503793, 0.011212599, 0.001996505, -0.01143969, 0.04382849, 0.010143381, -0.031735916, 0.00048848137, -0.005894894, 0.01229128, 0.06733237, 0.00838816, 0.0070256162, 0.023617424, 0.03181161, 0.022368426, 0.04303367, -0.03567215, 0.059119258, -0.009840594, 0.0036216222, 0.034612395, 0.015357004, -0.038737874, -0.018176712, -0.053366296, -0.0235985, 0.019454096, 0.02032461, 0.0066565936, 0.03001381, -0.04064922, 0.007006692, 0.013880914, -0.019889353, -0.027951071, -0.036940075, -0.015290768, 0.0035553875, -0.033382323, -0.0054738303, 0.022046715, 0.0074135624, 0.01893368, -0.0035601186, -0.020532778, 0.010493479, -0.058135197, 0.014656807, -0.00021748066, 0.028556645, -0.03996795, -0.0050764214, 0.0211762, -0.008998466, -0.021706078, -0.015726026, 0.036220953, -0.0015304962, -0.04254164, 0.057037592, -0.03224687, 0.0141269285, -0.017561674, 0.028234934, -0.021630382, -0.01323749, -0.02938931, -0.00080191373, -0.033950046, -0.048748787, -0.049997784, 0.055031627, 0.0034465732, 0.020570625, -0.0010278216, 0.015158298, 0.0016440415, -0.024658257, -0.006169295, 0.013880914, -0.032719973, -0.019662263, 0.043185066, -0.004404612, 0.0011330876, -0.0019397323, 0.020267839, 0.007631191, -0.01561248, -0.0017244694, 0.007262169, -0.0320387, -0.03737533, 0.035236895, -0.01072057, -0.008544285, -0.029332539, 0.0048966412, 0.002222413, -0.021687154, 0.015423238, -0.013994459, 0.0007640653, 0.005809735, 0.037715968, -0.014997443, 0.048294604, 0.016520843, 0.031735916, -0.011647856, -0.0010224992, -0.014335095, -0.0018048973, 0.0010526596, -0.041481886, -0.006330151, 0.034650244, 0.023030773, -0.05033842, -0.012612991, -0.005213622, 0.01651138, -0.06434234, -0.008870727, -0.018697128, 0.0065619727, 0.0031579789, 0.032776747, 0.023712045, 0.026342511, 0.011657318, 0.015309692, 0.027042707, -0.022046715, -0.0211762, -0.0023797203, -0.025831558, 0.021630382, 0.03292814, -0.023787742, -0.010133919, 0.031906232, -0.012196659, 0.012385901, 0.05684835, -0.041481886, -0.032530732, -0.030941097, -0.018252408, -0.02641821, 0.014420254, -0.024223, 0.006178757, -0.054161113, 0.04163328, 0.05514517, -0.019416248, 0.00771635, -0.0015198513, 0.030184127, -0.16274828, -0.01808209, -0.018990453, 0.009433723, 0.009684469, -0.016634388, 0.016038274, -0.050300572, 0.048332453, -0.009670275, -0.011458614, 0.033931125, 0.015593556, -0.017599523, -0.019643338, 0.031603444, 0.01722104, -0.003602698, 0.0016889864, 0.039438073, -0.021895321, -0.0008722882, 0.0045914883, 0.018413264, -0.028272782, -0.019775808, -0.042995825, 0.0111747505, -0.033003837, -0.02395806, 0.021743927, -0.077286504, 0.03387435, 0.06911124, 0.010086608, -0.03790521, 0.002236606, 0.010285312, 0.043942034, 0.014950132, 0.03417714, 0.023920212, 0.0019007012, 0.0032596965, 0.0061645643, 0.037261784, 0.013209105, -0.02552877, 0.004288701, 0.007725812, 0.035993863, -0.008066448, 0.022841532, 0.025339529, -0.009173515, -0.017107494, -0.04700776, 0.00278186, 0.030354446, 0.023201091, -0.030657234, 0.0133226495, -0.036353424, 0.00038498957, -0.054085415, -0.011449152, -0.022330578, 0.052117296, 0.010881426, 0.014183702, -0.023352485, 0.029957037, -0.011581621, -0.022463048, 0.029181145, 0.0070256162, 0.039740857, 0.012433211, -0.007881937, 0.006855298, -0.008828148, -0.0031437858, -0.0111747505, 0.003839251, 0.015215072, -0.02480965, -0.017041259, 0.038548633, -0.016880402, -0.015148837, -0.028045692, -0.01821456, -0.01579226, -0.01807263, -0.057945956, 0.011780326, 0.006491007, 0.024374394, 0.0163316, 0.0003220074, -0.024752878, -0.01722104, -0.01924593, 0.014297247, -0.031603444, -0.013559203, 0.061655104, 0.014155315, 0.04818106, 0.013937687, 0.008851803, 0.011628932, 0.008056986, 0.076378144, 0.0078772055, 0.019009378, 0.029975962, -0.081525534, -0.024961043, 0.007465604, -0.03131958, 0.036883302, -0.029881341, -0.026796693, 0.02431762, 0.024071606, 0.011524849, 0.013824142, 0.049581453, -0.016965562, -0.015366465, -0.010777342, 0.01404177, -0.019889353, 0.009395874, -0.01588688, -0.009887904, 0.06627261, -0.04651573, -0.040346432, -0.028708039, 0.018791748, 0.0044897706, -0.0069924984, 0.0062118745, 0.009764897, 0.022103487, -0.015508397, 0.02166823, -0.015631404, 0.022084562, -0.038113374, -0.028499873, 0.0653264, -0.03499088, -0.012083113, -0.004189349, -0.034915183, -0.02310647, 0.04239025, 0.0044826744, -0.056999747, 0.016852016, 0.011837099, 0.002911964, -0.012783309, 0.0023749894, 0.010152843, 0.00883761, 0.001601462, 0.019368937, 0.016132897, -0.011193675, 0.011534311, 0.0097932825, 0.016312676, 0.024923196, 0.027913222, 0.044661157, -0.009783821, 0.0016641484, 0.0075176456, -0.006334882, 0.028272782, -0.0046482612, -0.0025524038, -0.031452052, -0.00047635805, 0.037034694, 0.053934023, 0.037961982, 0.023314636, -0.030619385, 0.007919786, 0.039665163, 0.020703094, 0.007285824, 0.008672023, -0.0411791, 0.050451964, -0.0761889, 0.008269884, -0.04473685, -0.029748872, -0.0063585374, -0.019302703, 0.005284588, -0.045569517, -0.019160772, 0.0061077913, 0.019132385, 0.009362757, -0.0136349, -0.015139375, 0.006855298, 0.0069877678, 0.043222915, -0.010077146, 0.026134346, -0.05298781, 0.0110233575, 0.02022999, -0.03413929, -0.0043194527, -0.018564658, -0.0004849331, -0.0013365229, 0.060671043, -0.027705055, 0.006845836, -0.019217543, -0.0026115421, -0.022103487, 0.03525582, 0.04038428, -0.05832444, 0.03767812, 0.008638905, -0.033533715, -0.013606513, 0.016918251, -0.020532778, 0.039021738, -0.03306061] is illegal)>
+2026-05-14 16:01:23 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [2eb6de6e]搜索无结果，提前结束
+2026-05-14 16:01:23 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [2eb6de6e] 检索结果: 0 条
+2026-05-14 16:01:23 [INFO] logs/pipeline/ChatPipeline - _retrieve:123 - [2eb6de6e] 检索无结果，回退为多轮对话
+2026-05-14 16:01:23 [INFO] logs/pipeline/ChatPipeline - chat:206 - [2eb6de6e] 检索无结果，已使用多轮对话模式
+2026-05-14 16:01:23 [INFO] logs/pipeline/ChatPipeline - chat:210 - [2eb6de6e] 开始流式生成
+2026-05-14 16:01:32 [INFO] chat_service - run_pipeline:90 - [session=6] 管道完成, AI回复长度=854
+2026-05-14 16:01:32 [INFO] chat_service - _sse_generator:118 - [session=6] 消息已持久化: user=做算法题有什么常用网站..., ai_len=854
+2026-05-14 16:01:32 [INFO] chat_service - _sse_generator:126 - [session=6] SSE流结束
+2026-05-14 16:01:32 [DEBUG] chat_service - _sse_generator:135 - [session=6] 线程池已关闭
+2026-05-14 16:07:52 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 16:07:52 [INFO] session_service - get_session:68 - [user=2] 会话历史: 4 条
+2026-05-14 16:07:56 [INFO] session_service - get_session_detail:79 - [session=6] 查询会话详情
+2026-05-14 16:07:56 [INFO] session_service - get_session_detail:94 - [session=6] 会话详情: 2 条消息
+2026-05-14 16:08:28 [INFO] chat_service - chat:43 - [session=6] 收到对话请求: query=力扣上有什么经典必刷吗...
+2026-05-14 16:08:28 [INFO] chat_service - chat:55 - [session=6] 会话有效, 准备流式响应
+2026-05-14 16:08:28 [INFO] chat_service - _sse_generator:78 - [session=6] 加载历史消息: 2 条
+2026-05-14 16:08:28 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 16:08:28 [INFO] chat_service - _sse_generator:99 - [session=6] 管道线程已启动
+2026-05-14 16:08:28 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 16:08:29 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 16:08:29 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 16:08:29 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 16:08:29 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 16:08:29 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 16:08:29 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 16:08:29 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 16:08:29 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 16:08:29 [INFO] chat_service - run_pipeline:85 - [session=6] 开始执行对话管道
+2026-05-14 16:08:29 [INFO] logs/pipeline/ChatPipeline - chat:161 - [4f79a97c] 收到对话: query=力扣上有什么经典必刷吗...
+2026-05-14 16:08:29 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [4f79a97c] 历史消息: 2 条
+2026-05-14 16:08:29 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [4f79a97c] 正在进行意图分类: 力扣上有什么经典必刷吗
+2026-05-14 16:08:31 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [4f79a97c] 意图分类完成: intent=search_precise, confidence=0.920
+2026-05-14 16:08:31 [INFO] logs/pipeline/ChatPipeline - chat:184 - [4f79a97c] 意图: search_precise (置信度=0.920, top_k=3, max_rewrite=3)
+2026-05-14 16:08:31 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [4f79a97c] 正在改写查询: 力扣上有什么经典必刷吗, 历史: 2 条
+2026-05-14 16:08:36 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [4f79a97c] 查询改写完成: 3 个
+2026-05-14 16:08:36 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [4f79a97c] 查询重写完成: 3 个, top_k=3, max_rewrite=3
+2026-05-14 16:08:36 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [4f79a97c]开始rerank，原始查询:力扣上有什么经典必刷吗...
+2026-05-14 16:08:36 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [4f79a97c]开始检索：3个查询，top_k=3
+2026-05-14 16:08:36 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [931fd43a] 开始batch embed | 文本数=3
+2026-05-14 16:08:36 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [931fd43a] Batch embed完成 | 结果数=3 | 有效=3
+2026-05-14 16:08:36 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [4f79a97c] 生成3个向量
+2026-05-14 16:08:36 [INFO] logs/pipeline/HybridSearch - retrieve:67 - [4f79a97c] 检索完成，BM25:3，向量:3
+2026-05-14 16:08:36 [DEBUG] logs/pipeline/HybridSearch - retrieve:85 - [4f79a97c] 开始RRF融合，共3个查询
+2026-05-14 16:08:36 [INFO] logs/pipeline/HybridSearch - retrieve:94 - 所有query融合完成，共3个结果
+2026-05-14 16:08:36 [INFO] logs/pipeline/HybridSearch - retrieve:98 - 跨query融合完成，共0个结果
+2026-05-14 16:08:36 [INFO] logs/pipeline/HybridSearch - retrieve:115 - [4f79a97c] 检索完成，返回0条，耗时407.31ms
+2026-05-14 16:08:36 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [4f79a97c]搜索无结果，提前结束
+2026-05-14 16:08:36 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [4f79a97c] 检索结果: 0 条
+2026-05-14 16:08:36 [INFO] logs/pipeline/ChatPipeline - _retrieve:123 - [4f79a97c] 检索无结果，回退为多轮对话
+2026-05-14 16:08:36 [INFO] logs/pipeline/ChatPipeline - chat:206 - [4f79a97c] 检索无结果，已使用多轮对话模式
+2026-05-14 16:08:36 [INFO] logs/pipeline/ChatPipeline - chat:210 - [4f79a97c] 开始流式生成
+2026-05-14 16:08:53 [INFO] chat_service - run_pipeline:90 - [session=6] 管道完成, AI回复长度=1828
+2026-05-14 16:08:53 [INFO] chat_service - _sse_generator:118 - [session=6] 消息已持久化: user=力扣上有什么经典必刷吗..., ai_len=1828
+2026-05-14 16:08:53 [INFO] chat_service - _sse_generator:126 - [session=6] SSE流结束
+2026-05-14 16:08:53 [DEBUG] chat_service - _sse_generator:135 - [session=6] 线程池已关闭
+2026-05-14 16:37:48 [INFO] chat_service - chat:43 - [session=6] 收到对话请求: query=有针对不同类型题目刷题顺序推荐吗...
+2026-05-14 16:37:48 [INFO] chat_service - chat:55 - [session=6] 会话有效, 准备流式响应
+2026-05-14 16:37:48 [INFO] chat_service - _sse_generator:78 - [session=6] 加载历史消息: 4 条
+2026-05-14 16:37:48 [INFO] chat_service - run_pipeline:85 - [session=6] 开始执行对话管道
+2026-05-14 16:37:48 [INFO] chat_service - _sse_generator:99 - [session=6] 管道线程已启动
+2026-05-14 16:37:48 [INFO] logs/pipeline/ChatPipeline - chat:161 - [98e27204] 收到对话: query=有针对不同类型题目刷题顺序推荐吗...
+2026-05-14 16:37:48 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [98e27204] 历史消息: 4 条
+2026-05-14 16:37:48 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [98e27204] 正在进行意图分类: 有针对不同类型题目刷题顺序推荐吗
+2026-05-14 16:37:51 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [98e27204] 意图分类完成: intent=search_broad, confidence=0.850
+2026-05-14 16:37:51 [INFO] logs/pipeline/ChatPipeline - chat:184 - [98e27204] 意图: search_broad (置信度=0.850, top_k=8, max_rewrite=5)
+2026-05-14 16:37:51 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [98e27204] 正在改写查询: 有针对不同类型题目刷题顺序推荐吗, 历史: 4 条
+2026-05-14 16:37:56 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [98e27204] 查询改写完成: 5 个
+2026-05-14 16:37:56 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [98e27204] 查询重写完成: 5 个, top_k=8, max_rewrite=5
+2026-05-14 16:37:56 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [98e27204]开始rerank，原始查询:有针对不同类型题目刷题顺序推荐吗...
+2026-05-14 16:37:56 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [98e27204]开始检索：5个查询，top_k=8
+2026-05-14 16:37:56 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [816badfa] 开始batch embed | 文本数=5
+2026-05-14 16:37:56 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [816badfa] Batch embed完成 | 结果数=5 | 有效=5
+2026-05-14 16:37:56 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [98e27204] 生成5个向量
+2026-05-14 16:37:56 [INFO] logs/pipeline/HybridSearch - retrieve:67 - [98e27204] 检索完成，BM25:5，向量:5
+2026-05-14 16:37:56 [DEBUG] logs/pipeline/HybridSearch - retrieve:85 - [98e27204] 开始RRF融合，共5个查询
+2026-05-14 16:37:56 [INFO] logs/pipeline/HybridSearch - retrieve:94 - 所有query融合完成，共5个结果
+2026-05-14 16:37:56 [INFO] logs/pipeline/HybridSearch - retrieve:98 - 跨query融合完成，共0个结果
+2026-05-14 16:37:56 [INFO] logs/pipeline/HybridSearch - retrieve:115 - [98e27204] 检索完成，返回0条，耗时437.73ms
+2026-05-14 16:37:56 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [98e27204]搜索无结果，提前结束
+2026-05-14 16:37:56 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [98e27204] 检索结果: 0 条
+2026-05-14 16:37:56 [INFO] logs/pipeline/ChatPipeline - _retrieve:123 - [98e27204] 检索无结果，回退为多轮对话
+2026-05-14 16:37:56 [INFO] logs/pipeline/ChatPipeline - chat:206 - [98e27204] 检索无结果，已使用多轮对话模式
+2026-05-14 16:37:56 [INFO] logs/pipeline/ChatPipeline - chat:210 - [98e27204] 开始流式生成
+2026-05-14 16:38:20 [INFO] chat_service - run_pipeline:90 - [session=6] 管道完成, AI回复长度=2939
+2026-05-14 16:38:20 [INFO] chat_service - _sse_generator:118 - [session=6] 消息已持久化: user=有针对不同类型题目刷题顺序推荐吗..., ai_len=2939
+2026-05-14 16:38:20 [INFO] chat_service - _sse_generator:126 - [session=6] SSE流结束
+2026-05-14 16:38:20 [DEBUG] chat_service - _sse_generator:135 - [session=6] 线程池已关闭
+2026-05-14 16:46:33 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 16:46:33 [INFO] session_service - get_session:68 - [user=2] 会话历史: 4 条
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:17 - 初始化文档存储
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:20 - 文件解析初始化成功
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:27 - 文本切分初始化成功
+2026-05-14 16:47:45 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 16:47:45 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:30 - embedding初始化成功
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:33 - 向量数据库初始化成功
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:36 - ES数据库初始化成功
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - __init__:39 - 初始化完成
+2026-05-14 16:47:45 [INFO] logs/pipeline/DocumentStore - store:45 - [4e367f9c]开始存入程序
+2026-05-14 16:47:45 [INFO] logs/pipeline/FileParser - parse_file:16 - [6e5fb163]开始解析文件,文件类型pdf
+2026-05-14 16:47:45 [DEBUG] logs/pipeline/FileParser - parse_pdf:41 - [6e5fb163]使用 PyMuPDFLoader 解析 PDF
+2026-05-14 16:47:46 [DEBUG] logs/pipeline/FileParser - parse_pdf:44 - [6e5fb163]PDF 解析到 813 页
+2026-05-14 16:47:46 [INFO] logs/pipeline/FileParser - parse_file:37 - [6e5fb163] 解析完成，813页，耗时1013.75ms
+2026-05-14 16:47:46 [INFO] logs/pipeline/DocumentStore - store:56 - [4e367f9c]文档分块完成，共2143个块
+2026-05-14 16:47:46 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [2cff75a3] 开始batch embed | 文本数=2143
+2026-05-14 16:48:16 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [2cff75a3] Batch embed完成 | 结果数=2143 | 有效=2143
+2026-05-14 16:48:16 [INFO] logs/pipeline/DocumentStore - store:61 - [4e367f9c]嵌入完成,共2143个嵌入向量
+2026-05-14 16:48:17 [INFO] logs/pipeline/DocumentStore - store:87 - [4e367f9c] 存入完成 | 向量:2143 | 文本:2143 | 耗时:32187.35ms
+2026-05-14 16:49:00 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=CNN和RNN在结构上有什么区别？...
+2026-05-14 16:49:00 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 16:49:00 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 16:49:02 [INFO] session_service - create_session:38 - [user=2] 标题生成: CNN与RNN结构区别
+2026-05-14 16:49:02 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=7, title=CNN与RNN结构区别
+2026-05-14 16:49:02 [INFO] chat_service - chat:43 - [session=7] 收到对话请求: query=CNN和RNN在结构上有什么区别？...
+2026-05-14 16:49:02 [INFO] chat_service - chat:55 - [session=7] 会话有效, 准备流式响应
+2026-05-14 16:49:02 [INFO] chat_service - _sse_generator:78 - [session=7] 加载历史消息: 0 条
+2026-05-14 16:49:02 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 16:49:02 [INFO] chat_service - _sse_generator:99 - [session=7] 管道线程已启动
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 16:49:02 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 16:49:02 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 16:49:02 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 16:49:02 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 16:49:02 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 16:49:02 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 16:49:02 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 16:49:02 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 16:49:02 [INFO] chat_service - run_pipeline:85 - [session=7] 开始执行对话管道
+2026-05-14 16:49:02 [INFO] logs/pipeline/ChatPipeline - chat:161 - [30870c4e] 收到对话: query=CNN和RNN在结构上有什么区别？...
+2026-05-14 16:49:02 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [30870c4e] 历史消息: 0 条
+2026-05-14 16:49:02 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [30870c4e] 正在进行意图分类: CNN和RNN在结构上有什么区别？
+2026-05-14 16:49:04 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [30870c4e] 意图分类完成: intent=search_broad, confidence=0.950
+2026-05-14 16:49:04 [INFO] logs/pipeline/ChatPipeline - chat:184 - [30870c4e] 意图: search_broad (置信度=0.950, top_k=8, max_rewrite=5)
+2026-05-14 16:49:04 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [30870c4e] 正在改写查询: CNN和RNN在结构上有什么区别？, 历史: 0 条
+2026-05-14 16:49:08 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [30870c4e] 查询改写完成: 4 个
+2026-05-14 16:49:08 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [30870c4e] 查询重写完成: 4 个, top_k=8, max_rewrite=5
+2026-05-14 16:49:08 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [30870c4e]开始rerank，原始查询:CNN和RNN在结构上有什么区别？...
+2026-05-14 16:49:08 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [30870c4e]开始检索：4个查询，top_k=8
+2026-05-14 16:49:08 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [f7f7909a] 开始batch embed | 文本数=4
+2026-05-14 16:49:08 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [f7f7909a] Batch embed完成 | 结果数=4 | 有效=4
+2026-05-14 16:49:08 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [30870c4e] 生成4个向量
+2026-05-14 16:49:09 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [30870c4e] 检索完成，BM25:32，向量:32
+2026-05-14 16:49:09 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [30870c4e] 开始RRF融合，共4个查询
+2026-05-14 16:49:09 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共4个结果
+2026-05-14 16:49:09 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共25个结果
+2026-05-14 16:49:09 [ERROR] logs/pipeline/HybridSearch - retrieve:121 - [30870c4e] 检索失败：'ElasticsearchDB' object has no attribute 'logger'
+2026-05-14 16:49:09 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [30870c4e]搜索无结果，提前结束
+2026-05-14 16:49:09 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [30870c4e] 检索结果: 0 条
+2026-05-14 16:49:09 [INFO] logs/pipeline/ChatPipeline - _retrieve:123 - [30870c4e] 检索无结果，回退为多轮对话
+2026-05-14 16:49:09 [INFO] logs/pipeline/ChatPipeline - chat:206 - [30870c4e] 检索无结果，已使用多轮对话模式
+2026-05-14 16:49:09 [INFO] logs/pipeline/ChatPipeline - chat:210 - [30870c4e] 开始流式生成
+2026-05-14 16:49:15 [INFO] chat_service - run_pipeline:90 - [session=7] 管道完成, AI回复长度=582
+2026-05-14 16:49:15 [INFO] chat_service - _sse_generator:118 - [session=7] 消息已持久化: user=CNN和RNN在结构上有什么区别？..., ai_len=582
+2026-05-14 16:49:15 [INFO] chat_service - _sse_generator:126 - [session=7] SSE流结束
+2026-05-14 16:49:15 [DEBUG] chat_service - _sse_generator:135 - [session=7] 线程池已关闭
+2026-05-14 16:56:18 [INFO] logs/pipeline/DocumentStore - close:125 - 资源清理完成
+2026-05-14 16:57:26 [INFO] session_service - delete_session:120 - [session=7] 删除会话
+2026-05-14 16:57:26 [INFO] session_service - delete_session:146 - [session=7] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-14 16:57:34 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 16:57:34 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 16:57:35 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 16:57:37 [INFO] session_service - create_session:38 - [user=2] 标题生成: CNN和RNN结构区别
+2026-05-14 16:57:37 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=8, title=CNN和RNN结构区别
+2026-05-14 16:57:37 [INFO] chat_service - chat:43 - [session=8] 收到对话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 16:57:37 [INFO] chat_service - chat:55 - [session=8] 会话有效, 准备流式响应
+2026-05-14 16:57:37 [INFO] chat_service - _sse_generator:78 - [session=8] 加载历史消息: 0 条
+2026-05-14 16:57:37 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 16:57:37 [INFO] chat_service - _sse_generator:99 - [session=8] 管道线程已启动
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 16:57:37 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 16:57:37 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 16:57:37 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 16:57:37 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 16:57:37 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 16:57:37 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 16:57:37 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 16:57:37 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 16:57:37 [INFO] chat_service - run_pipeline:85 - [session=8] 开始执行对话管道
+2026-05-14 16:57:37 [INFO] logs/pipeline/ChatPipeline - chat:161 - [7e8109ee] 收到对话: query=CNN和RNN在结构上有什么区别...
+2026-05-14 16:57:37 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [7e8109ee] 历史消息: 0 条
+2026-05-14 16:57:37 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [7e8109ee] 正在进行意图分类: CNN和RNN在结构上有什么区别
+2026-05-14 16:57:39 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [7e8109ee] 意图分类完成: intent=search_broad, confidence=0.950
+2026-05-14 16:57:39 [INFO] logs/pipeline/ChatPipeline - chat:184 - [7e8109ee] 意图: search_broad (置信度=0.950, top_k=8, max_rewrite=5)
+2026-05-14 16:57:39 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [7e8109ee] 正在改写查询: CNN和RNN在结构上有什么区别, 历史: 0 条
+2026-05-14 16:57:43 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [7e8109ee] 查询改写完成: 4 个
+2026-05-14 16:57:43 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [7e8109ee] 查询重写完成: 4 个, top_k=8, max_rewrite=5
+2026-05-14 16:57:43 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [7e8109ee]开始rerank，原始查询:CNN和RNN在结构上有什么区别...
+2026-05-14 16:57:43 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [7e8109ee]开始检索：4个查询，top_k=8
+2026-05-14 16:57:43 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [81f9d3fb] 开始batch embed | 文本数=4
+2026-05-14 16:57:43 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [81f9d3fb] Batch embed完成 | 结果数=4 | 有效=4
+2026-05-14 16:57:43 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [7e8109ee] 生成4个向量
+2026-05-14 16:57:43 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [7e8109ee] 检索完成，BM25:32，向量:32
+2026-05-14 16:57:43 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [7e8109ee] 开始RRF融合，共4个查询
+2026-05-14 16:57:43 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共4个结果
+2026-05-14 16:57:43 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共27个结果
+2026-05-14 16:57:43 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [7e8109ee] 检索完成，返回16条，耗时491.56ms
+2026-05-14 16:57:43 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [7e8109ee]查询完毕,共:16条
+2026-05-14 16:57:43 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [7e8109ee]开始rerank | query=CNN和RNN在结构上有什么区别... | docs数量=16
+2026-05-14 16:57:44 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [7e8109ee] Rerank成功 | 结果数=16 | top分数=[0:0.5064, 1:0.4571, 4:0.4166]
+2026-05-14 16:57:44 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [7e8109ee]rerank完毕,最高：0.51|最低0.00
+2026-05-14 16:57:44 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [7e8109ee] 检索结果: 16 条
+2026-05-14 16:57:44 [DEBUG] logs/pipeline/ChatPipeline - _retrieve:128 - [7e8109ee] 上下文长度: 2121 字符
+2026-05-14 16:57:44 [INFO] logs/pipeline/ChatPipeline - chat:210 - [7e8109ee] 开始流式生成
+2026-05-14 16:57:49 [INFO] chat_service - run_pipeline:90 - [session=8] 管道完成, AI回复长度=408
+2026-05-14 16:57:49 [INFO] chat_service - _sse_generator:118 - [session=8] 消息已持久化: user=CNN和RNN在结构上有什么区别..., ai_len=408
+2026-05-14 16:57:49 [INFO] chat_service - _sse_generator:126 - [session=8] SSE流结束
+2026-05-14 16:57:49 [DEBUG] chat_service - _sse_generator:135 - [session=8] 线程池已关闭
+2026-05-14 17:08:12 [INFO] session_service - delete_session:120 - [session=8] 删除会话
+2026-05-14 17:08:12 [INFO] session_service - delete_session:146 - [session=8] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-14 17:08:16 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:08:16 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 17:08:16 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 17:08:18 [INFO] session_service - create_session:38 - [user=2] 标题生成: CNN与RNN结构区别
+2026-05-14 17:08:18 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=9, title=CNN与RNN结构区别
+2026-05-14 17:08:18 [INFO] chat_service - chat:43 - [session=9] 收到对话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:08:18 [INFO] chat_service - chat:55 - [session=9] 会话有效, 准备流式响应
+2026-05-14 17:08:18 [INFO] chat_service - _sse_generator:78 - [session=9] 加载历史消息: 0 条
+2026-05-14 17:08:18 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 17:08:18 [INFO] chat_service - _sse_generator:99 - [session=9] 管道线程已启动
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 17:08:18 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 17:08:18 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 17:08:18 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 17:08:18 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 17:08:18 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 17:08:18 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 17:08:18 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 17:08:18 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 17:08:18 [INFO] chat_service - run_pipeline:85 - [session=9] 开始执行对话管道
+2026-05-14 17:08:18 [INFO] logs/pipeline/ChatPipeline - chat:161 - [6d56cdab] 收到对话: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:08:18 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [6d56cdab] 历史消息: 0 条
+2026-05-14 17:08:18 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [6d56cdab] 正在进行意图分类: CNN和RNN在结构上有什么区别
+2026-05-14 17:08:19 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [6d56cdab] 意图分类完成: intent=search_broad, confidence=0.950
+2026-05-14 17:08:19 [INFO] logs/pipeline/ChatPipeline - chat:184 - [6d56cdab] 意图: search_broad (置信度=0.950, top_k=8, max_rewrite=5)
+2026-05-14 17:08:19 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [6d56cdab] 正在改写查询: CNN和RNN在结构上有什么区别, 历史: 0 条
+2026-05-14 17:08:22 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [6d56cdab] 查询改写完成: 3 个
+2026-05-14 17:08:22 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [6d56cdab] 查询重写完成: 3 个, top_k=8, max_rewrite=5
+2026-05-14 17:08:22 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [6d56cdab]开始rerank，原始查询:CNN和RNN在结构上有什么区别...
+2026-05-14 17:08:22 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [6d56cdab]开始检索：3个查询，top_k=8
+2026-05-14 17:08:22 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [da77c177] 开始batch embed | 文本数=3
+2026-05-14 17:08:23 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [da77c177] Batch embed完成 | 结果数=3 | 有效=3
+2026-05-14 17:08:23 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [6d56cdab] 生成3个向量
+2026-05-14 17:08:23 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [6d56cdab] 检索完成，BM25:24，向量:24
+2026-05-14 17:08:23 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [6d56cdab] 开始RRF融合，共3个查询
+2026-05-14 17:08:23 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共3个结果
+2026-05-14 17:08:23 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共22个结果
+2026-05-14 17:08:23 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [6d56cdab] 检索完成，返回14条，耗时410.16ms
+2026-05-14 17:08:23 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [6d56cdab]查询完毕,共:14条
+2026-05-14 17:08:23 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [6d56cdab]开始rerank | query=CNN和RNN在结构上有什么区别... | docs数量=14
+2026-05-14 17:08:23 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [6d56cdab] Rerank成功 | 结果数=14 | top分数=[9:0.8383, 6:0.5137, 5:0.4495]
+2026-05-14 17:08:23 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [6d56cdab]rerank完毕,最高：0.84|最低0.00
+2026-05-14 17:08:23 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [6d56cdab] 检索结果: 14 条
+2026-05-14 17:08:23 [DEBUG] logs/pipeline/ChatPipeline - _retrieve:128 - [6d56cdab] 上下文长度: 2303 字符
+2026-05-14 17:08:23 [INFO] logs/pipeline/ChatPipeline - chat:210 - [6d56cdab] 开始流式生成
+2026-05-14 17:08:29 [INFO] chat_service - run_pipeline:90 - [session=9] 管道完成, AI回复长度=455
+2026-05-14 17:08:29 [INFO] chat_service - _sse_generator:118 - [session=9] 消息已持久化: user=CNN和RNN在结构上有什么区别..., ai_len=455
+2026-05-14 17:08:29 [INFO] chat_service - _sse_generator:126 - [session=9] SSE流结束
+2026-05-14 17:08:29 [DEBUG] chat_service - _sse_generator:135 - [session=9] 线程池已关闭
+2026-05-14 17:09:34 [INFO] session_service - delete_session:120 - [session=9] 删除会话
+2026-05-14 17:09:34 [INFO] session_service - delete_session:146 - [session=9] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-14 17:09:40 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:09:40 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 17:09:40 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 17:09:42 [INFO] session_service - create_session:38 - [user=2] 标题生成: CNN与RNN结构区别
+2026-05-14 17:09:42 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=10, title=CNN与RNN结构区别
+2026-05-14 17:09:42 [INFO] chat_service - chat:43 - [session=10] 收到对话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:09:42 [INFO] chat_service - chat:55 - [session=10] 会话有效, 准备流式响应
+2026-05-14 17:09:42 [INFO] chat_service - _sse_generator:78 - [session=10] 加载历史消息: 0 条
+2026-05-14 17:09:42 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 17:09:42 [INFO] chat_service - _sse_generator:99 - [session=10] 管道线程已启动
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 17:09:42 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 17:09:42 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 17:09:42 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 17:09:42 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 17:09:42 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 17:09:42 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 17:09:42 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 17:09:42 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 17:09:42 [INFO] chat_service - run_pipeline:85 - [session=10] 开始执行对话管道
+2026-05-14 17:09:42 [INFO] logs/pipeline/ChatPipeline - chat:161 - [a45cd38e] 收到对话: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:09:42 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [a45cd38e] 历史消息: 0 条
+2026-05-14 17:09:42 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [a45cd38e] 正在进行意图分类: CNN和RNN在结构上有什么区别
+2026-05-14 17:09:43 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [a45cd38e] 意图分类完成: intent=search_broad, confidence=0.920
+2026-05-14 17:09:43 [INFO] logs/pipeline/ChatPipeline - chat:184 - [a45cd38e] 意图: search_broad (置信度=0.920, top_k=8, max_rewrite=5)
+2026-05-14 17:09:43 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [a45cd38e] 正在改写查询: CNN和RNN在结构上有什么区别, 历史: 0 条
+2026-05-14 17:09:46 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [a45cd38e] 查询改写完成: 3 个
+2026-05-14 17:09:46 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [a45cd38e] 查询重写完成: 3 个, top_k=8, max_rewrite=5
+2026-05-14 17:09:46 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [a45cd38e]开始rerank，原始查询:CNN和RNN在结构上有什么区别...
+2026-05-14 17:09:46 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [a45cd38e]开始检索：3个查询，top_k=8
+2026-05-14 17:09:46 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [2d037749] 开始batch embed | 文本数=3
+2026-05-14 17:09:46 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [2d037749] Batch embed完成 | 结果数=3 | 有效=3
+2026-05-14 17:09:46 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [a45cd38e] 生成3个向量
+2026-05-14 17:09:46 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [a45cd38e] 检索完成，BM25:24，向量:24
+2026-05-14 17:09:46 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [a45cd38e] 开始RRF融合，共3个查询
+2026-05-14 17:09:46 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共3个结果
+2026-05-14 17:09:46 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共21个结果
+2026-05-14 17:09:46 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [a45cd38e] 检索完成，返回14条，耗时367.19ms
+2026-05-14 17:09:46 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [a45cd38e]查询完毕,共:14条
+2026-05-14 17:09:46 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [a45cd38e]开始rerank | query=CNN和RNN在结构上有什么区别... | docs数量=14
+2026-05-14 17:09:47 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [a45cd38e] Rerank成功 | 结果数=14 | top分数=[4:0.8379, 0:0.5064, 10:0.4584]
+2026-05-14 17:09:47 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [a45cd38e]rerank完毕,最高：0.84|最低0.00
+2026-05-14 17:09:47 [ERROR] chat_service - run_pipeline:93 - [session=10] 管道执行异常: 'text'
+Traceback (most recent call last):
+  File "C:\GraduationProject\code\rag-qa-system\backend\app\chat\chat_service.py", line 86, in run_pipeline
+    for chunk in pipeline.chat(query, steps, history=history):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\rag\generation\chat.py", line 197, in chat
+    messages, has_results = self._retrieve(
+                            ^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\rag\generation\chat.py", line 113, in _retrieve
+    retrieved_docs = self.rerank_pipeline.search_rerank(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GraduationProject\code\rag-qa-system\rag\retrieval\rerank.py", line 32, in search_rerank
+    steps.append(f"rerank结果{i+1}: {result['text'][:30]}...")
+                                     ~~~~~~^^^^^^^^
+KeyError: 'text'
+2026-05-14 17:09:47 [ERROR] chat_service - _sse_generator:123 - [session=10] SSE错误: 'text'
+2026-05-14 17:09:47 [INFO] chat_service - _sse_generator:126 - [session=10] SSE流结束
+2026-05-14 17:09:47 [DEBUG] chat_service - _sse_generator:135 - [session=10] 线程池已关闭
+2026-05-14 17:10:03 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-14 17:10:03 [INFO] session_service - get_session:68 - [user=2] 会话历史: 5 条
+2026-05-14 17:10:04 [INFO] session_service - get_session_detail:79 - [session=6] 查询会话详情
+2026-05-14 17:10:04 [INFO] session_service - get_session_detail:94 - [session=6] 会话详情: 6 条消息
+2026-05-14 17:10:06 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-14 17:10:06 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 8 条消息
+2026-05-14 17:10:06 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-14 17:10:06 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 12 条消息
+2026-05-14 17:10:13 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-14 17:10:13 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-14 17:10:15 [INFO] session_service - get_session_detail:79 - [session=10] 查询会话详情
+2026-05-14 17:10:15 [INFO] session_service - get_session_detail:94 - [session=10] 会话详情: 0 条消息
+2026-05-14 17:13:04 [INFO] chat_service - chat:43 - [session=10] 收到对话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:13:04 [INFO] chat_service - chat:55 - [session=10] 会话有效, 准备流式响应
+2026-05-14 17:13:04 [INFO] chat_service - _sse_generator:78 - [session=10] 加载历史消息: 0 条
+2026-05-14 17:13:04 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 17:13:04 [INFO] chat_service - _sse_generator:99 - [session=10] 管道线程已启动
+2026-05-14 17:13:04 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 17:13:05 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 17:13:05 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 17:13:05 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 17:13:05 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 17:13:05 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 17:13:05 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 17:13:05 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 17:13:05 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 17:13:05 [INFO] chat_service - run_pipeline:85 - [session=10] 开始执行对话管道
+2026-05-14 17:13:05 [INFO] logs/pipeline/ChatPipeline - chat:161 - [85de5982] 收到对话: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:13:05 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [85de5982] 历史消息: 0 条
+2026-05-14 17:13:05 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [85de5982] 正在进行意图分类: CNN和RNN在结构上有什么区别
+2026-05-14 17:13:06 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [85de5982] 意图分类完成: intent=search_broad, confidence=0.950
+2026-05-14 17:13:06 [INFO] logs/pipeline/ChatPipeline - chat:184 - [85de5982] 意图: search_broad (置信度=0.950, top_k=8, max_rewrite=5)
+2026-05-14 17:13:06 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [85de5982] 正在改写查询: CNN和RNN在结构上有什么区别, 历史: 0 条
+2026-05-14 17:13:09 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [85de5982] 查询改写完成: 3 个
+2026-05-14 17:13:09 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [85de5982] 查询重写完成: 3 个, top_k=8, max_rewrite=5
+2026-05-14 17:13:09 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [85de5982]开始rerank，原始查询:CNN和RNN在结构上有什么区别...
+2026-05-14 17:13:09 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [85de5982]开始检索：3个查询，top_k=8
+2026-05-14 17:13:09 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [2151c686] 开始batch embed | 文本数=3
+2026-05-14 17:13:09 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [2151c686] Batch embed完成 | 结果数=3 | 有效=3
+2026-05-14 17:13:09 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [85de5982] 生成3个向量
+2026-05-14 17:13:09 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [85de5982] 检索完成，BM25:24，向量:24
+2026-05-14 17:13:09 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [85de5982] 开始RRF融合，共3个查询
+2026-05-14 17:13:09 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共3个结果
+2026-05-14 17:13:09 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共25个结果
+2026-05-14 17:13:09 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [85de5982] 检索完成，返回14条，耗时374.24ms
+2026-05-14 17:13:09 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [85de5982]查询完毕,共:14条
+2026-05-14 17:13:09 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [85de5982]开始rerank | query=CNN和RNN在结构上有什么区别... | docs数量=14
+2026-05-14 17:13:10 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [85de5982] Rerank成功 | 结果数=14 | top分数=[0:0.5152, 4:0.4162, 2:0.2813]
+2026-05-14 17:13:10 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [85de5982]rerank完毕,最高：0.52|最低0.00
+2026-05-14 17:13:10 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [85de5982] 检索结果: 14 条
+2026-05-14 17:13:10 [DEBUG] logs/pipeline/ChatPipeline - _retrieve:128 - [85de5982] 上下文长度: 2212 字符
+2026-05-14 17:13:10 [INFO] logs/pipeline/ChatPipeline - chat:210 - [85de5982] 开始流式生成
+2026-05-14 17:13:16 [INFO] chat_service - run_pipeline:90 - [session=10] 管道完成, AI回复长度=576
+2026-05-14 17:13:16 [INFO] chat_service - _sse_generator:118 - [session=10] 消息已持久化: user=CNN和RNN在结构上有什么区别..., ai_len=576
+2026-05-14 17:13:16 [INFO] chat_service - _sse_generator:126 - [session=10] SSE流结束
+2026-05-14 17:13:16 [DEBUG] chat_service - _sse_generator:135 - [session=10] 线程池已关闭
+2026-05-14 17:15:44 [INFO] session_service - delete_session:120 - [session=10] 删除会话
+2026-05-14 17:15:44 [INFO] session_service - delete_session:146 - [session=10] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-14 17:15:52 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:15:52 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-14 17:15:53 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-14 17:15:54 [INFO] session_service - create_session:38 - [user=2] 标题生成: CNN与RNN结构区别
+2026-05-14 17:15:54 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=11, title=CNN与RNN结构区别
+2026-05-14 17:15:54 [INFO] chat_service - chat:43 - [session=11] 收到对话请求: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:15:54 [INFO] chat_service - chat:55 - [session=11] 会话有效, 准备流式响应
+2026-05-14 17:15:54 [INFO] chat_service - _sse_generator:78 - [session=11] 加载历史消息: 0 条
+2026-05-14 17:15:54 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-14 17:15:54 [INFO] chat_service - _sse_generator:99 - [session=11] 管道线程已启动
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-14 17:15:54 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-14 17:15:54 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-14 17:15:54 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-14 17:15:54 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-14 17:15:54 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-14 17:15:54 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-14 17:15:54 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-14 17:15:54 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-14 17:15:54 [INFO] chat_service - run_pipeline:85 - [session=11] 开始执行对话管道
+2026-05-14 17:15:54 [INFO] logs/pipeline/ChatPipeline - chat:161 - [862f77f1] 收到对话: query=CNN和RNN在结构上有什么区别...
+2026-05-14 17:15:54 [DEBUG] logs/pipeline/ChatPipeline - chat:173 - [862f77f1] 历史消息: 0 条
+2026-05-14 17:15:54 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [862f77f1] 正在进行意图分类: CNN和RNN在结构上有什么区别
+2026-05-14 17:15:56 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [862f77f1] 意图分类完成: intent=search_broad, confidence=0.950
+2026-05-14 17:15:56 [INFO] logs/pipeline/ChatPipeline - chat:184 - [862f77f1] 意图: search_broad (置信度=0.950, top_k=8, max_rewrite=5)
+2026-05-14 17:15:56 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [862f77f1] 正在改写查询: CNN和RNN在结构上有什么区别, 历史: 0 条
+2026-05-14 17:15:59 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [862f77f1] 查询改写完成: 3 个
+2026-05-14 17:15:59 [INFO] logs/pipeline/ChatPipeline - _retrieve:108 - [862f77f1] 查询重写完成: 3 个, top_k=8, max_rewrite=5
+2026-05-14 17:15:59 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [862f77f1]开始rerank，原始查询:CNN和RNN在结构上有什么区别...
+2026-05-14 17:15:59 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [862f77f1]开始检索：3个查询，top_k=8
+2026-05-14 17:15:59 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [4f999837] 开始batch embed | 文本数=3
+2026-05-14 17:15:59 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [4f999837] Batch embed完成 | 结果数=3 | 有效=3
+2026-05-14 17:15:59 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [862f77f1] 生成3个向量
+2026-05-14 17:15:59 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [862f77f1] 检索完成，BM25:24，向量:24
+2026-05-14 17:15:59 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [862f77f1] 开始RRF融合，共3个查询
+2026-05-14 17:15:59 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共3个结果
+2026-05-14 17:15:59 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共26个结果
+2026-05-14 17:15:59 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [862f77f1] 检索完成，返回14条，耗时381.33ms
+2026-05-14 17:15:59 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [862f77f1]查询完毕,共:14条
+2026-05-14 17:15:59 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [862f77f1]开始rerank | query=CNN和RNN在结构上有什么区别... | docs数量=14
+2026-05-14 17:15:59 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [862f77f1] Rerank成功 | 结果数=14 | top分数=[1:0.5137, 10:0.4555, 7:0.4204]
+2026-05-14 17:15:59 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [862f77f1]rerank完毕,最高：0.51|最低0.00
+2026-05-14 17:15:59 [INFO] logs/pipeline/ChatPipeline - _retrieve:120 - [862f77f1] 检索结果: 14 条
+2026-05-14 17:15:59 [DEBUG] logs/pipeline/ChatPipeline - _retrieve:128 - [862f77f1] 上下文长度: 2119 字符
+2026-05-14 17:15:59 [INFO] logs/pipeline/ChatPipeline - chat:210 - [862f77f1] 开始流式生成
+2026-05-14 17:16:09 [INFO] chat_service - run_pipeline:90 - [session=11] 管道完成, AI回复长度=703
+2026-05-14 17:16:09 [INFO] chat_service - _sse_generator:118 - [session=11] 消息已持久化: user=CNN和RNN在结构上有什么区别..., ai_len=703
+2026-05-14 17:16:09 [INFO] chat_service - _sse_generator:126 - [session=11] SSE流结束
+2026-05-14 17:16:09 [DEBUG] chat_service - _sse_generator:135 - [session=11] 线程池已关闭

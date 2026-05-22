@@ -1,0 +1,212 @@
+2026-05-17 12:21:33 [INFO] session_service - get_session:58 - [user=2] 查询会话历史
+2026-05-17 12:21:33 [INFO] session_service - get_session:68 - [user=2] 会话历史: 5 条
+2026-05-17 12:43:01 [INFO] session_service - get_session_detail:79 - [session=12] 查询会话详情
+2026-05-17 12:43:01 [INFO] session_service - get_session_detail:94 - [session=12] 会话详情: 4 条消息
+2026-05-17 12:43:10 [INFO] session_service - get_session_detail:79 - [session=6] 查询会话详情
+2026-05-17 12:43:10 [INFO] session_service - get_session_detail:94 - [session=6] 会话详情: 6 条消息
+2026-05-17 12:43:16 [INFO] session_service - get_session_detail:79 - [session=5] 查询会话详情
+2026-05-17 12:43:16 [INFO] session_service - get_session_detail:94 - [session=5] 会话详情: 4 条消息
+2026-05-17 12:43:16 [INFO] session_service - get_session_detail:79 - [session=3] 查询会话详情
+2026-05-17 12:43:16 [INFO] session_service - get_session_detail:94 - [session=3] 会话详情: 12 条消息
+2026-05-17 12:43:18 [INFO] session_service - get_session_detail:79 - [session=4] 查询会话详情
+2026-05-17 12:43:18 [INFO] session_service - get_session_detail:94 - [session=4] 会话详情: 8 条消息
+2026-05-17 12:47:36 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:47:36 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-17 12:47:37 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-17 12:47:40 [INFO] session_service - create_session:38 - [user=2] 标题生成: 向量化 vs 循环优势与ML重
+2026-05-17 12:47:40 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=13, title=向量化 vs 循环优势与ML重
+2026-05-17 12:47:40 [INFO] chat_service - chat:43 - [session=13] 收到对话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:47:40 [INFO] chat_service - chat:55 - [session=13] 会话有效, 准备流式响应
+2026-05-17 12:47:40 [INFO] chat_service - _sse_generator:78 - [session=13] 加载历史消息: 0 条
+2026-05-17 12:47:40 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-17 12:47:40 [INFO] chat_service - _sse_generator:99 - [session=13] 管道线程已启动
+2026-05-17 12:47:40 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-17 12:47:40 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-17 12:47:40 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-17 12:47:40 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-17 12:47:40 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-17 12:47:40 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-17 12:47:40 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-17 12:47:40 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-17 12:47:48 [WARNING] logs/pipeline/HybridSearch - __init__:21 - ES 初始化失败（检索将跳过BM25）: Failed to connect to Elasticsearch at http://127.0.0.1:9200
+2026-05-17 12:47:48 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-17 12:47:48 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-17 12:47:48 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-17 12:47:48 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-17 12:47:48 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-17 12:47:48 [INFO] chat_service - run_pipeline:85 - [session=13] 开始执行对话管道
+2026-05-17 12:47:48 [INFO] logs/pipeline/ChatPipeline - chat:170 - [9f93a0af] 收到对话: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:47:48 [DEBUG] logs/pipeline/ChatPipeline - chat:182 - [9f93a0af] 历史消息: 0 条
+2026-05-17 12:47:48 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [9f93a0af] 正在进行意图分类: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？
+2026-05-17 12:47:49 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [9f93a0af] 意图分类完成: intent=search_broad, confidence=0.920
+2026-05-17 12:47:49 [INFO] logs/pipeline/ChatPipeline - chat:193 - [9f93a0af] 意图: search_broad (置信度=0.920, top_k=8, max_rewrite=5)
+2026-05-17 12:47:49 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [9f93a0af] 正在改写查询: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？, 历史: 0 条
+2026-05-17 12:47:53 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [9f93a0af] 查询改写完成: 5 个
+2026-05-17 12:47:53 [INFO] logs/pipeline/ChatPipeline - _retrieve:117 - [9f93a0af] 查询重写完成: 5 个, top_k=8, max_rewrite=5
+2026-05-17 12:47:53 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [9f93a0af]开始rerank，原始查询:在Octave中，向量化的实现方式与使用for循环的实现方式...
+2026-05-17 12:47:53 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [9f93a0af]开始检索：5个查询，top_k=8
+2026-05-17 12:47:53 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [339f2644] 开始batch embed | 文本数=5
+2026-05-17 12:47:54 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [339f2644] Batch embed完成 | 结果数=5 | 有效=5
+2026-05-17 12:47:54 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [9f93a0af] 生成5个向量
+2026-05-17 12:47:54 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [9f93a0af] 检索完成，BM25:0，向量:40
+2026-05-17 12:47:54 [WARNING] logs/pipeline/HybridSearch - retrieve:113 - [9f93a0af] ES不可用，无法根据ID获取文本
+2026-05-17 12:47:54 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [9f93a0af] 检索完成，返回0条，耗时1044.80ms
+2026-05-17 12:47:54 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [9f93a0af]搜索无结果，提前结束
+2026-05-17 12:47:54 [INFO] logs/pipeline/ChatPipeline - _retrieve:129 - [9f93a0af] 检索结果: 0 条
+2026-05-17 12:47:54 [INFO] logs/pipeline/ChatPipeline - _retrieve:132 - [9f93a0af] 检索无结果，回退为多轮对话
+2026-05-17 12:47:54 [INFO] logs/pipeline/ChatPipeline - chat:215 - [9f93a0af] 检索无结果，已使用多轮对话模式
+2026-05-17 12:47:54 [INFO] logs/pipeline/ChatPipeline - chat:219 - [9f93a0af] 开始流式生成
+2026-05-17 12:48:06 [INFO] chat_service - run_pipeline:90 - [session=13] 管道完成, AI回复长度=1417
+2026-05-17 12:48:06 [INFO] chat_service - _sse_generator:118 - [session=13] 消息已持久化: user=在Octave中，向量化的实现方式与使用for循环的实现方式..., ai_len=1417
+2026-05-17 12:48:06 [INFO] chat_service - _sse_generator:126 - [session=13] SSE流结束
+2026-05-17 12:48:06 [DEBUG] chat_service - _sse_generator:135 - [session=13] 线程池已关闭
+2026-05-17 12:50:19 [INFO] session_service - delete_session:120 - [session=13] 删除会话
+2026-05-17 12:50:19 [INFO] session_service - delete_session:146 - [session=13] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-17 12:50:23 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:50:25 [INFO] session_service - create_session:38 - [user=2] 标题生成: Octave向量化优势与ML重
+2026-05-17 12:50:25 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=14, title=Octave向量化优势与ML重
+2026-05-17 12:50:25 [INFO] chat_service - chat:43 - [session=14] 收到对话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:50:25 [INFO] chat_service - chat:55 - [session=14] 会话有效, 准备流式响应
+2026-05-17 12:50:25 [INFO] chat_service - _sse_generator:78 - [session=14] 加载历史消息: 0 条
+2026-05-17 12:50:25 [INFO] chat_service - run_pipeline:85 - [session=14] 开始执行对话管道
+2026-05-17 12:50:25 [INFO] logs/pipeline/ChatPipeline - chat:170 - [615ca977] 收到对话: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:50:25 [INFO] chat_service - _sse_generator:99 - [session=14] 管道线程已启动
+2026-05-17 12:50:25 [DEBUG] logs/pipeline/ChatPipeline - chat:182 - [615ca977] 历史消息: 0 条
+2026-05-17 12:50:25 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [615ca977] 正在进行意图分类: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？
+2026-05-17 12:50:27 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [615ca977] 意图分类完成: intent=search_broad, confidence=0.900
+2026-05-17 12:50:27 [INFO] logs/pipeline/ChatPipeline - chat:193 - [615ca977] 意图: search_broad (置信度=0.900, top_k=8, max_rewrite=5)
+2026-05-17 12:50:27 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [615ca977] 正在改写查询: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？, 历史: 0 条
+2026-05-17 12:50:30 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [615ca977] 查询改写完成: 5 个
+2026-05-17 12:50:30 [INFO] logs/pipeline/ChatPipeline - _retrieve:117 - [615ca977] 查询重写完成: 5 个, top_k=8, max_rewrite=5
+2026-05-17 12:50:30 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [615ca977]开始rerank，原始查询:在Octave中，向量化的实现方式与使用for循环的实现方式...
+2026-05-17 12:50:30 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [615ca977]开始检索：5个查询，top_k=8
+2026-05-17 12:50:30 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [7873bd83] 开始batch embed | 文本数=5
+2026-05-17 12:50:30 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [7873bd83] Batch embed完成 | 结果数=5 | 有效=5
+2026-05-17 12:50:30 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [615ca977] 生成5个向量
+2026-05-17 12:50:31 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [615ca977] 检索完成，BM25:0，向量:40
+2026-05-17 12:50:31 [WARNING] logs/pipeline/HybridSearch - retrieve:113 - [615ca977] ES不可用，无法根据ID获取文本
+2026-05-17 12:50:31 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [615ca977] 检索完成，返回0条，耗时497.78ms
+2026-05-17 12:50:31 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [615ca977]搜索无结果，提前结束
+2026-05-17 12:50:31 [INFO] logs/pipeline/ChatPipeline - _retrieve:129 - [615ca977] 检索结果: 0 条
+2026-05-17 12:50:31 [INFO] logs/pipeline/ChatPipeline - _retrieve:132 - [615ca977] 检索无结果，回退为多轮对话
+2026-05-17 12:50:31 [INFO] logs/pipeline/ChatPipeline - chat:215 - [615ca977] 检索无结果，已使用多轮对话模式
+2026-05-17 12:50:31 [INFO] logs/pipeline/ChatPipeline - chat:219 - [615ca977] 开始流式生成
+2026-05-17 12:50:41 [INFO] chat_service - run_pipeline:90 - [session=14] 管道完成, AI回复长度=1082
+2026-05-17 12:50:41 [INFO] chat_service - _sse_generator:118 - [session=14] 消息已持久化: user=在Octave中，向量化的实现方式与使用for循环的实现方式..., ai_len=1082
+2026-05-17 12:50:41 [INFO] chat_service - _sse_generator:126 - [session=14] SSE流结束
+2026-05-17 12:50:41 [DEBUG] chat_service - _sse_generator:135 - [session=14] 线程池已关闭
+2026-05-17 12:52:01 [INFO] session_service - delete_session:120 - [session=14] 删除会话
+2026-05-17 12:52:01 [INFO] session_service - delete_session:146 - [session=14] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-17 12:52:03 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:52:05 [INFO] session_service - create_session:38 - [user=2] 标题生成: 向量化对比for循环优势及ML
+2026-05-17 12:52:05 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=15, title=向量化对比for循环优势及ML
+2026-05-17 12:52:05 [INFO] chat_service - chat:43 - [session=15] 收到对话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:52:05 [INFO] chat_service - chat:55 - [session=15] 会话有效, 准备流式响应
+2026-05-17 12:52:05 [INFO] chat_service - _sse_generator:78 - [session=15] 加载历史消息: 0 条
+2026-05-17 12:52:05 [INFO] chat_service - run_pipeline:85 - [session=15] 开始执行对话管道
+2026-05-17 12:52:05 [INFO] chat_service - _sse_generator:99 - [session=15] 管道线程已启动
+2026-05-17 12:52:05 [INFO] logs/pipeline/ChatPipeline - chat:170 - [3b5a1826] 收到对话: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:52:05 [DEBUG] logs/pipeline/ChatPipeline - chat:182 - [3b5a1826] 历史消息: 0 条
+2026-05-17 12:52:05 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [3b5a1826] 正在进行意图分类: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？
+2026-05-17 12:52:07 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [3b5a1826] 意图分类完成: intent=search_broad, confidence=0.850
+2026-05-17 12:52:07 [INFO] logs/pipeline/ChatPipeline - chat:193 - [3b5a1826] 意图: search_broad (置信度=0.850, top_k=8, max_rewrite=5)
+2026-05-17 12:52:07 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [3b5a1826] 正在改写查询: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？, 历史: 0 条
+2026-05-17 12:52:10 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [3b5a1826] 查询改写完成: 5 个
+2026-05-17 12:52:10 [INFO] logs/pipeline/ChatPipeline - _retrieve:117 - [3b5a1826] 查询重写完成: 5 个, top_k=8, max_rewrite=5
+2026-05-17 12:52:10 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [3b5a1826]开始rerank，原始查询:在Octave中，向量化的实现方式与使用for循环的实现方式...
+2026-05-17 12:52:10 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [3b5a1826]开始检索：5个查询，top_k=8
+2026-05-17 12:52:10 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [dc174c9f] 开始batch embed | 文本数=5
+2026-05-17 12:52:11 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [dc174c9f] Batch embed完成 | 结果数=5 | 有效=5
+2026-05-17 12:52:11 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [3b5a1826] 生成5个向量
+2026-05-17 12:52:11 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [3b5a1826] 检索完成，BM25:0，向量:40
+2026-05-17 12:52:11 [WARNING] logs/pipeline/HybridSearch - retrieve:113 - [3b5a1826] ES不可用，无法根据ID获取文本
+2026-05-17 12:52:11 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [3b5a1826] 检索完成，返回0条，耗时466.90ms
+2026-05-17 12:52:11 [WARNING] logs/pipeline/RerankPipeline - search_rerank:23 - [3b5a1826]搜索无结果，提前结束
+2026-05-17 12:52:11 [INFO] logs/pipeline/ChatPipeline - _retrieve:129 - [3b5a1826] 检索结果: 0 条
+2026-05-17 12:52:11 [INFO] logs/pipeline/ChatPipeline - _retrieve:132 - [3b5a1826] 检索无结果，回退为多轮对话
+2026-05-17 12:52:11 [INFO] logs/pipeline/ChatPipeline - chat:215 - [3b5a1826] 检索无结果，已使用多轮对话模式
+2026-05-17 12:52:11 [INFO] logs/pipeline/ChatPipeline - chat:219 - [3b5a1826] 开始流式生成
+2026-05-17 12:52:27 [INFO] chat_service - run_pipeline:90 - [session=15] 管道完成, AI回复长度=1763
+2026-05-17 12:52:27 [INFO] chat_service - _sse_generator:118 - [session=15] 消息已持久化: user=在Octave中，向量化的实现方式与使用for循环的实现方式..., ai_len=1763
+2026-05-17 12:52:27 [INFO] chat_service - _sse_generator:126 - [session=15] SSE流结束
+2026-05-17 12:52:27 [DEBUG] chat_service - _sse_generator:135 - [session=15] 线程池已关闭
+2026-05-17 12:52:53 [INFO] session_service - delete_session:120 - [session=15] 删除会话
+2026-05-17 12:52:53 [INFO] session_service - delete_session:146 - [session=15] 会话已删除，关联文件数: 0, RAG文件数: 0
+2026-05-17 12:52:57 [INFO] session_service - create_session:27 - [user=2] 创建会话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:52:57 [INFO] session_service - _get_title_generator:16 - 初始化 TitleGenerator...
+2026-05-17 12:52:57 [INFO] session_service - _get_title_generator:18 - TitleGenerator 初始化完成
+2026-05-17 12:53:00 [INFO] session_service - create_session:38 - [user=2] 标题生成: 向量化在Octave与ML中的
+2026-05-17 12:53:00 [INFO] session_service - create_session:44 - [user=2] 会话创建成功: session_id=16, title=向量化在Octave与ML中的
+2026-05-17 12:53:00 [INFO] chat_service - chat:43 - [session=16] 收到对话请求: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:53:00 [INFO] chat_service - chat:55 - [session=16] 会话有效, 准备流式响应
+2026-05-17 12:53:00 [INFO] chat_service - _sse_generator:78 - [session=16] 加载历史消息: 0 条
+2026-05-17 12:53:00 [INFO] chat_service - _get_pipeline:26 - 初始化 ChatPipeline...
+2026-05-17 12:53:00 [INFO] chat_service - _sse_generator:99 - [session=16] 管道线程已启动
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:22 - ChatPipeline 开始初始化
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:28 - 生成 LLM 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/IntentRouterPipeline - __init__:22 - IntentRouterPipeline 开始初始化
+2026-05-17 12:53:00 [INFO] logs/pipeline/IntentRouterPipeline - __init__:29 - LLM 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/IntentRouterPipeline - __init__:32 - IntentRouterPipeline 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:31 - 意图路由 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:18 - QueryRewriterPipeline 开始初始化
+2026-05-17 12:53:00 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:25 - LLM 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/QueryRewriterPipeline - __init__:28 - QueryRewriterPipeline 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:34 - 查询重写 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/RerankPipeline - __init__:9 - 开始初始化rerank pipeline
+2026-05-17 12:53:00 [INFO] logs/pipeline/HybridSearch - __init__:12 - 开始初始化 hybrid_search pipeline
+2026-05-17 12:53:00 [INFO] logs/models/SiliconFlowEmbedding - __init__:10 - 开始初始化embedding模型
+2026-05-17 12:53:00 [INFO] logs/models/SiliconFlowEmbedding - __init__:18 - embedding模型 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/HybridSearch - __init__:15 - Embedding模型 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/HybridSearch - __init__:19 - ES数据库 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/HybridSearch - __init__:26 - Milvus数据库 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/HybridSearch - __init__:34 - hybrid_search pipeline 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/RerankPipeline - __init__:11 - hybrid_search 加载完成
+2026-05-17 12:53:00 [INFO] logs/models/SiliconFlowReranker - __init__:10 - 开始初始化 rerank模型
+2026-05-17 12:53:00 [INFO] logs/models/SiliconFlowReranker - __init__:18 - rerank模型 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/RerankPipeline - __init__:13 - rerank 模型加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/RerankPipeline - __init__:14 - rerank pipeline 初始化完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:37 - 检索Rerank 加载完成
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - __init__:39 - ChatPipeline 初始化完成
+2026-05-17 12:53:00 [INFO] chat_service - _get_pipeline:29 - ChatPipeline 初始化完成
+2026-05-17 12:53:00 [INFO] chat_service - run_pipeline:85 - [session=16] 开始执行对话管道
+2026-05-17 12:53:00 [INFO] logs/pipeline/ChatPipeline - chat:170 - [d21d285f] 收到对话: query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？...
+2026-05-17 12:53:00 [DEBUG] logs/pipeline/ChatPipeline - chat:182 - [d21d285f] 历史消息: 0 条
+2026-05-17 12:53:00 [DEBUG] logs/pipeline/IntentRouterPipeline - route:135 - [d21d285f] 正在进行意图分类: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？
+2026-05-17 12:53:02 [INFO] logs/pipeline/IntentRouterPipeline - route:150 - [d21d285f] 意图分类完成: intent=search_broad, confidence=0.920
+2026-05-17 12:53:02 [INFO] logs/pipeline/ChatPipeline - chat:193 - [d21d285f] 意图: search_broad (置信度=0.920, top_k=8, max_rewrite=5)
+2026-05-17 12:53:02 [DEBUG] logs/pipeline/QueryRewriterPipeline - rewrite:121 - [d21d285f] 正在改写查询: 在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学习中如此重要？, 历史: 0 条
+2026-05-17 12:53:04 [INFO] logs/pipeline/QueryRewriterPipeline - rewrite:136 - [d21d285f] 查询改写完成: 5 个
+2026-05-17 12:53:04 [INFO] logs/pipeline/ChatPipeline - _retrieve:117 - [d21d285f] 查询重写完成: 5 个, top_k=8, max_rewrite=5
+2026-05-17 12:53:04 [INFO] logs/pipeline/RerankPipeline - search_rerank:18 - [d21d285f]开始rerank，原始查询:在Octave中，向量化的实现方式与使用for循环的实现方式...
+2026-05-17 12:53:04 [INFO] logs/pipeline/HybridSearch - retrieve:51 - [d21d285f]开始检索：5个查询，top_k=8
+2026-05-17 12:53:04 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:89 - [cc13cc85] 开始batch embed | 文本数=5
+2026-05-17 12:53:05 [INFO] logs/models/SiliconFlowEmbedding - embed_batch:111 - [cc13cc85] Batch embed完成 | 结果数=5 | 有效=5
+2026-05-17 12:53:05 [DEBUG] logs/pipeline/HybridSearch - retrieve:61 - [d21d285f] 生成5个向量
+2026-05-17 12:53:05 [INFO] logs/pipeline/HybridSearch - retrieve:69 - [d21d285f] 检索完成，BM25:40，向量:40
+2026-05-17 12:53:05 [DEBUG] logs/pipeline/HybridSearch - retrieve:87 - [d21d285f] 开始RRF融合，共5个查询
+2026-05-17 12:53:05 [INFO] logs/pipeline/HybridSearch - retrieve:96 - 所有query融合完成，共5个结果
+2026-05-17 12:53:05 [INFO] logs/pipeline/HybridSearch - retrieve:100 - 跨query融合完成，共37个结果
+2026-05-17 12:53:05 [INFO] logs/pipeline/HybridSearch - retrieve:117 - [d21d285f] 检索完成，返回18条，耗时802.57ms
+2026-05-17 12:53:05 [INFO] logs/pipeline/RerankPipeline - search_rerank:25 - [d21d285f]查询完毕,共:18条
+2026-05-17 12:53:05 [INFO] logs/models/SiliconFlowReranker - rerank:22 - [d21d285f]开始rerank | query=在Octave中，向量化的实现方式与使用for循环的实现方式相比有什么优势？为什么向量化在现代机器学... | docs数量=18
+2026-05-17 12:53:06 [INFO] logs/models/SiliconFlowReranker - rerank:48 - [d21d285f] Rerank成功 | 结果数=18 | top分数=[4:0.9884, 2:0.9402, 1:0.8723]
+2026-05-17 12:53:06 [INFO] logs/pipeline/RerankPipeline - search_rerank:29 - [d21d285f]rerank完毕,最高：0.99|最低0.00
+2026-05-17 12:53:06 [INFO] logs/pipeline/ChatPipeline - _retrieve:129 - [d21d285f] 检索结果: 18 条
+2026-05-17 12:53:06 [DEBUG] logs/pipeline/ChatPipeline - _retrieve:137 - [d21d285f] 上下文长度: 1782 字符
+2026-05-17 12:53:06 [INFO] logs/pipeline/ChatPipeline - chat:219 - [d21d285f] 开始流式生成
+2026-05-17 12:53:14 [INFO] chat_service - run_pipeline:90 - [session=16] 管道完成, AI回复长度=822
+2026-05-17 12:53:14 [INFO] chat_service - _sse_generator:118 - [session=16] 消息已持久化: user=在Octave中，向量化的实现方式与使用for循环的实现方式..., ai_len=822
+2026-05-17 12:53:14 [INFO] chat_service - _sse_generator:126 - [session=16] SSE流结束
+2026-05-17 12:53:14 [DEBUG] chat_service - _sse_generator:135 - [session=16] 线程池已关闭

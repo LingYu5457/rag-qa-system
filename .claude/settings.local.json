@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "WebSearch",
+      "WebFetch(domain:doi.org)",
+      "Bash(python add_references.py)"
+    ]
+  }
+}

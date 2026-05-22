@@ -1,0 +1,6 @@
+评估数据已保存至: evaluate\ragas_eval_data.json
+用时评估图已保存至: evaluate\timing_evaluation.png
+
+总迭代次数: 27
+总用时: 405.61s
+平均每次用时: 15.02s
