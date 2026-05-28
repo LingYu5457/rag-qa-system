@@ -2,3 +2,6 @@
 logs/
 
 .env
+.claude/
+
+localdocs/
