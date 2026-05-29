@@ -7,3 +7,5 @@ logs/
 localdocs/
 migrations/
 data/
+
+__pycache__/
